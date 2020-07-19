@@ -1,10 +1,10 @@
-name: Generate Account Readme
+name: Generate Profile Readme
 # This workflow is triggered on pushes to the repository.
 on: [push, workflow_dispatch]
 
 jobs:
   build:
-    name: Generate Readme via HTTP
+    name: Generate Readme
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
