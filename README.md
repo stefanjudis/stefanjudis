@@ -1,6 +1,4 @@
-<p style="float: right">
-  <img alt src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png">
-</p>
+<img alt align="right" src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png">
 
 ### Hi there 👋
 
