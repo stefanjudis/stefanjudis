@@ -1,6 +1,6 @@
 name: Generate Account Readme
 # This workflow is triggered on pushes to the repository.
-on: [workflow_dispatch]
+on: [push, workflow_dispatch]
 
 jobs:
   build:
