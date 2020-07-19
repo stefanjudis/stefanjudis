@@ -2,6 +2,7 @@
 
 <!-- TABLE -->
 | Blog posts | Today I learned posts |
+| --- | --- |
 | [Monthly Digest May/June 2020](https://www.stefanjudis.com/blog/monthly-digest-may-june-2020/) | [npm init uses npx under the hood](https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood/) | 
 | [Monthly Digest April 2020](https://www.stefanjudis.com/blog/monthly-digest-april-2020/) | [git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/) | 
 | [Monthly Digest March 2020](https://www.stefanjudis.com/blog/monthly-digest-march-2020/) | [Downloads can be triggered via HTTP headers](https://www.stefanjudis.com/today-i-learned/downloads-can-be-triggered-via-http-headers/) | 
