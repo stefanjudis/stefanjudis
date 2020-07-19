@@ -5,7 +5,6 @@
 I'm Stefan and I speak and write about web technology.
 
 <!-- TABLE -->
-
 | Blog posts | Today I learned posts |
 | --- | --- |
 | [Monthly Digest May/June 2020](https://www.stefanjudis.com/blog/monthly-digest-may-june-2020/) | [npm init uses npx under the hood](https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood/) | 
