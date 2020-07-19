@@ -53,7 +53,6 @@ async function fetchContentfulData() {
           return `| [${blogPost.title}](https://www.stefanjudis.com/blog/${blogPost.slug}/) | [${tilPost.title}](https://www.stefanjudis.com/today-i-learned/${tilPost.slug}/) | `;
         })
         .join('\n'),
-      '',
       `Last generated: ${new Date().toLocaleDateString(undefined, {})}`,
       '<!-- TABLE_END -->',
     ].join('\n')
