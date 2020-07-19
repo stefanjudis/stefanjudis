@@ -44,7 +44,7 @@ async function fetchContentfulData() {
     /<!-- TABLE.*TABLE_END -->/gs,
     [
       '<!-- TABLE -->',
-      'Blog posts | Today I learned posts',
+      '| Blog posts | Today I learned posts |',
       [...Array(NUMBER_OF_POSTS).keys()]
         .map((index) => {
           const blogPost = blogPosts.items[index];
