@@ -1,4 +1,4 @@
-<img alt align="left" width="30" height="30" src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png">
+<img alt width="30" height="30" src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png">
 
 ### Hi there 👋
 
