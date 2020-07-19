@@ -8,4 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Readme
-        uses: ./.github/actions/generate-readme
+        run: |-
+          node ./index.js

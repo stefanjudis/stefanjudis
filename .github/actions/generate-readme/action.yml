@@ -1,5 +1,0 @@
-name: "Generate readme"
-description: "Fetch Contentful data and update/commit Readme.md"
-runs:
-  using: "node12"
-  main: "index.js"
