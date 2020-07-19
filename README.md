@@ -1,4 +1,8 @@
-![Heart logo](https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png)
+<p align="center">
+  <img width="60" height="60" src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png">
+</p>
+
+---
 
 # Hi there 👋
 
