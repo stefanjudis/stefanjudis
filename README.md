@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm Stefan and I speak and write about web technology.
+I'm Stefan and I speak and write about web technology. You can read along on my [blog](https://www.stefanjudis.com/).
 
 <!-- TABLE -->
 | Blog posts | Today I learned posts |
