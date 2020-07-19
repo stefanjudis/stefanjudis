@@ -7,6 +7,17 @@ jobs:
     name: Generate Readme via HTTP
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
       - name: Generate Readme
-        run: |-
-          node ./index.js
+        run: CONTENTFUL_SPACE=${{ secrets.CONTENTFUL_SPACE }} CONTENTFUL_ACCESS_TOKEN=${{ secrets.CONTENTFUL_ACCESS_TOKEN }} node index.js
+
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Generated new readme"
+          git push
