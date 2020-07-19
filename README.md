@@ -1,6 +1,6 @@
 ![Heart logo](https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png)
 
-# Hi there 👋
+### Hi there 👋
 
 I'm Stefan and I speak and write about web technology. You can read along on my [blog](https://www.stefanjudis.com/).
 
