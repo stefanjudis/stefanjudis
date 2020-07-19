@@ -17,5 +17,3 @@ I'm Stefan and I speak and write about web technology. You can read along on my 
 ---
 
 ![Generate Account Readme](https://github.com/stefanjudis/stefanjudis/workflows/Generate%20Account%20Readme/badge.svg)
-
-test

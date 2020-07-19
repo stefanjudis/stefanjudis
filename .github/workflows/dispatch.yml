@@ -14,4 +14,5 @@ jobs:
 
       - name: Generate Readme
         run: CONTENTFUL_SPACE=${{ secrets.CONTENTFUL_SPACE }} CONTENTFUL_ACCESS_TOKEN=${{ secrets.CONTENTFUL_ACCESS_TOKEN }} node generate-readme.js
-      # - run: ./commit.sh
+
+      - run: ./commit.sh
