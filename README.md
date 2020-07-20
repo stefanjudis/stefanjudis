@@ -13,7 +13,7 @@ I'm Stefan and I speak and write about web technology. You can read along on my 
 | [Monthly Digest February 2020](https://www.stefanjudis.com/blog/monthly-digest-february-2020/) | [Downloads can be triggered via HTTP headers](https://www.stefanjudis.com/today-i-learned/downloads-can-be-triggered-via-http-headers/) | 
 | [Monthly Digest January 2020](https://www.stefanjudis.com/blog/monthly-digest-january-2020/) | [Custom properties affect how invalid CSS declarations are handled](https://www.stefanjudis.com/today-i-learned/custom-properties-affect-how-invalid-css-declarations-are-handled/) | 
 
-Last generated: 7/20/2020
+Last updated: 7/20/2020
 <!-- TABLE_END -->
 
 ---
