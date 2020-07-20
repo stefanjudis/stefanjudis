@@ -37,27 +37,33 @@ async function fetchContentfulData() {
   return JSON.parse(response.body).data;
 }
 
-(async () => {
-  const { blogPosts, tilPosts } = await fetchContentfulData();
+async function getGeneratedReadme({ blogPosts, tilPosts }) {
+  const getTableRow = (index) => {
+    const blogPost = blogPosts.items[index];
+    const tilPost = tilPosts.items[index];
+    return `| [${blogPost.title}](https://www.stefanjudis.com/blog/${blogPost.slug}/) | [${tilPost.title}](https://www.stefanjudis.com/today-i-learned/${tilPost.slug}/) | `;
+  };
 
-  const readme = (await readFile(README_PATH, 'utf8')).replace(
+  return (await readFile(README_PATH, 'utf8')).replace(
     /<!-- TABLE.*TABLE_END -->/gs,
     [
       '<!-- TABLE -->',
-      '| Blog posts | Today I learned posts |',
-      '| --- | --- |',
-      [...Array(NUMBER_OF_POSTS).keys()]
-        .map((index) => {
-          const blogPost = blogPosts.items[index];
-          const tilPost = tilPosts.items[index];
-          return `| [${blogPost.title}](https://www.stefanjudis.com/blog/${blogPost.slug}/) | [${tilPost.title}](https://www.stefanjudis.com/today-i-learned/${tilPost.slug}/) | `;
-        })
-        .join('\n'),
+      [
+        '| Blog posts | Today I learned posts |',
+        '| --- | --- |',
+        ...[...Array(NUMBER_OF_POSTS).keys()].map(getTableRow),
+      ].join('\n'),
       '',
-      `Last generated: ${new Date().toLocaleDateString(undefined, {})}`,
+      `Last updated: ${new Date().toLocaleDateString()}`,
       '<!-- TABLE_END -->',
     ].join('\n')
   );
+}
 
+(async () => {
+  const { blogPosts, tilPosts } = await fetchContentfulData();
+  const readme = await getGeneratedReadme({ blogPosts, tilPosts });
+
+  console.log(`Generated readme\n${readme}`);
   await writeFile(README_PATH, readme);
 })();
