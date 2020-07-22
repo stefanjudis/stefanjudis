@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 <div align="left">
-  <img src="header.svg" width="800" height="400">
+  <img src="headline.svg" width="800" height="400">
 </div>
 
 I'm Stefan and I speak and write about web technology. You can read along on my [blog](https://www.stefanjudis.com/).
