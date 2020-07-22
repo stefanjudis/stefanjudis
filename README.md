@@ -1,7 +1,7 @@
 <img alt width="30" height="30" src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png">
 
 <div align="left">
-  <img src="headline.svg" width="800" height="100">
+  <img src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/headline.svg" width="800" height="100">
 </div>
 
 You can read along on my [blog](https://www.stefanjudis.com/).
