@@ -14,11 +14,15 @@
 				
 				h1 {
 				font-family: 'Oswald', sans-serif;
+				font-size: 2em;
 				}
 			</style>
 			<div class="container">
 				<h1>
-					Heyo, I'm Stefan! I write and speak about web technology.
+					Heyo, I'm Stefan!
+					<br>
+						I write and speak about web technology.
+					</br>
 				</h1>
 			</div>
 		</div>
