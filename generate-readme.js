@@ -64,6 +64,6 @@ async function getGeneratedReadme({ blogPosts, tilPosts }) {
   const { blogPosts, tilPosts } = await fetchContentfulData();
   const readme = await getGeneratedReadme({ blogPosts, tilPosts });
 
-  console.log(`Generated readme\n${readme}`);
+  console.log(`Generated readme:\n${readme}`);
   await writeFile(README_PATH, readme);
 })();

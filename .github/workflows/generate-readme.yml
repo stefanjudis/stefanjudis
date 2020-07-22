@@ -1,5 +1,5 @@
 name: Generate Profile Readme
-# This workflow is triggered on pushes to the repository.
+
 on: [push, workflow_dispatch]
 
 jobs:
