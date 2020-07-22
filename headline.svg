@@ -13,7 +13,7 @@
 				}
 				
 				h1 {
-				--icon: '🕐';
+				--icon: '🤓';
 				font-family: 'Oswald', sans-serif;
 				font-size: 2.5em;
 				margin: 0;
