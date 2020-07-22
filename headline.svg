@@ -1,0 +1,18 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
+				<style>
+					h1 {
+					font-family: 'Oswald', sans-serif;
+					}
+				</style>
+				<div class="container">
+					<h1>
+						Heyo, I'm Stefan! I write and speak about web technology.
+					</h1>
+				</div>
+			</link>
+		</div>
+	</foreignObject>
+</svg>
