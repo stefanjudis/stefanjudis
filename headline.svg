@@ -14,16 +14,20 @@
 				
 				h1 {
 				font-family: 'Oswald', sans-serif;
-				font-size: 2em;
+				font-size: 2.5em;
+				}
+				
+				h2 {
+				font-size: 1.5em;
 				}
 			</style>
 			<div class="container">
 				<h1>
-					<div>
-						Heyo, I'm Stefan!
-					</div>
-					I write and speak about web technology.
+					Heyo, I'm Stefan!
 				</h1>
+				<h2>
+					I write and speak about web technology.
+				</h2>
 			</div>
 		</div>
 	</foreignObject>
