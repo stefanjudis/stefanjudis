@@ -17,5 +17,7 @@
     "url": "https://github.com/stefanjudis/stefanjudis/issues"
   },
   "homepage": "https://github.com/stefanjudis/stefanjudis#readme",
-  "dependencies": {}
+  "dependencies": {
+    "got": "^11.5.1"
+  }
 }
