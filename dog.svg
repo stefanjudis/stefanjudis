@@ -1,3 +1,3 @@
 <svg fill="none" viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
-	<image href="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/dog.svg" height="200" width="200" />
+	<image href="https://stefanjudis-readme.netlify.app/.netlify/functions/random-dog/" height="200" width="200" />
 </svg>

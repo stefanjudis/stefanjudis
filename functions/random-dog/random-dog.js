@@ -13,7 +13,7 @@ exports.handler = async function (event, context) {
     const dogVideoUrl = videos[randomIndex].secure_url;
     const dogGifUrl = dogVideoUrl
       .replace('mp4', 'gif')
-      .replace('upload/', 'upload/ac_none,c_scale,q_49,vc_auto,w_207/');
+      .replace('upload/', 'upload/ac_none,br_50k,c_scale,vc_auto,w_150/');
     const dogGif = await got(dogGifUrl).buffer();
 
     return {
