@@ -18,12 +18,6 @@ You can read along on my [blog](https://www.stefanjudis.com/).
 Articles last updated: 7/30/2020
 <!-- TABLE_END -->
 
-<details><summary>WIP show me a dog</summary>
-<p>
-  <img src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/dog.svg" alt="A random dog gif">
-</p>
-</details>
-
 ---
 
 ![Generate Account Readme](https://github.com/stefanjudis/stefanjudis/workflows/Generate%20Account%20Readme/badge.svg)

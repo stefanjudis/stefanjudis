@@ -17,8 +17,5 @@
     "url": "https://github.com/stefanjudis/stefanjudis/issues"
   },
   "homepage": "https://github.com/stefanjudis/stefanjudis#readme",
-  "dependencies": {
-    "cloudinary": "^1.22.0",
-    "got": "^11.5.1"
-  }
+  "dependencies": {}
 }
