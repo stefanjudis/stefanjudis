@@ -13,8 +13,5 @@
   ],
   "author": "Netlify",
   "license": "MIT",
-  "dependencies": {
-    "cloudinary": "^1.22.0",
-    "got": "^11.5.1"
-  }
+  "dependencies": {}
 }
