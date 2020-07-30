@@ -20,7 +20,7 @@ Articles last updated: 7/30/2020
 
 <details><summary>WIP show me a dog</summary>
 <p>
-  <img src="https://stefanjudis-readme.netlify.app/.netlify/functions/random-dog/" alt="A random dog gif">
+  <img src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/dog.svg" alt="A random dog gif">
 </p>
 </details>
 
