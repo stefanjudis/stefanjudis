@@ -54,7 +54,7 @@ async function getGeneratedReadme({ blogPosts, tilPosts }) {
         ...[...Array(NUMBER_OF_POSTS).keys()].map(getTableRow),
       ].join('\n'),
       '',
-      `Last updated: ${new Date().toLocaleDateString()}`,
+      `Articles last updated: ${new Date().toLocaleDateString()}`,
       '<!-- TABLE_END -->',
     ].join('\n')
   );
