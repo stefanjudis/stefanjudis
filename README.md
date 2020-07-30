@@ -18,6 +18,12 @@ You can read along on my [blog](https://www.stefanjudis.com/).
 Last updated: 7/22/2020
 <!-- TABLE_END -->
 
+<details><summary>WIP show me a dog</summary>
+<p>
+  test
+</p>
+</details>
+
 ---
 
 ![Generate Account Readme](https://github.com/stefanjudis/stefanjudis/workflows/Generate%20Account%20Readme/badge.svg)
