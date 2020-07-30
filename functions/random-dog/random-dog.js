@@ -11,7 +11,9 @@ exports.handler = async function (event, context) {
 
     const randomIndex = Math.floor(Math.random() * videos.length);
     const dogVideoUrl = videos[randomIndex].secure_url;
-    const dogGifUrl = dogVideoUrl.replace('mp4', 'gif');
+    const dogGifUrl = dogVideoUrl
+      .replace('mp4', 'gif')
+      .replace('upload/', 'upload/ac_none,c_scale,q_49,vc_auto,w_207/');
     const dogGif = await got(dogGifUrl).buffer();
 
     return {
