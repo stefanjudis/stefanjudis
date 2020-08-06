@@ -15,7 +15,7 @@ You can read along on my [blog](https://www.stefanjudis.com/).
 | [Monthly Digest March 2020](https://www.stefanjudis.com/blog/monthly-digest-march-2020/) | [npm init uses npx under the hood](https://www.stefanjudis.com/today-i-learned/npm-init-uses-npx-under-the-hood/) | 
 | [Monthly Digest February 2020](https://www.stefanjudis.com/blog/monthly-digest-february-2020/) | [git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/) | 
 
-Articles last updated: 8/5/2020
+Articles last updated: 8/6/2020
 <!-- TABLE_END -->
 
 ---
