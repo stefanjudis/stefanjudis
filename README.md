@@ -9,13 +9,13 @@ You can read along on my [blog](https://www.stefanjudis.com/).
 <!-- TABLE -->
 | Blog posts | Today I learned posts |
 | --- | --- |
-| [Monthly Digest July 2020](https://www.stefanjudis.com/blog/monthly-digest-july-2020/) | [Elements with overflow: hidden are scrollable](https://www.stefanjudis.com/today-i-learned/elements-with-overflow-hidden-are-scrollable/) | 
-| [Monthly Digest May/June 2020](https://www.stefanjudis.com/blog/monthly-digest-may-june-2020/) | [Define where an element should be scrolled to using elem.scrollIntoView ](https://www.stefanjudis.com/today-i-learned/define-where-an-element-should-be-scrolled-to-using-elem-scrollintoview/) | 
-| [Monthly Digest April 2020](https://www.stefanjudis.com/blog/monthly-digest-april-2020/) | [GraphQL Playground offers a protocol handler](https://www.stefanjudis.com/today-i-learned/graphql-playground-offers-a-protocol-handler/) | 
-| [Monthly Digest March 2020](https://www.stefanjudis.com/blog/monthly-digest-march-2020/) | [The ex unit in CSS](https://www.stefanjudis.com/today-i-learned/the-ex-unit-in-css/) | 
-| [Monthly Digest February 2020](https://www.stefanjudis.com/blog/monthly-digest-february-2020/) | [:defined can be used to target not yet defined custom elements](https://www.stefanjudis.com/today-i-learned/defined-can-be-used-to-target-not-yet-defined-custom-elements/) | 
+| [Monthly Digest July 2020](https://www.stefanjudis.com/blog/monthly-digest-july-2020/) | [The navigation timing API holds information of the type of the current information](https://www.stefanjudis.com/today-i-learned/the-navigation-timing-api-holds-information-of-the-type-of-the-current/) | 
+| [Monthly Digest May/June 2020](https://www.stefanjudis.com/blog/monthly-digest-may-june-2020/) | [Elements with overflow: hidden are scrollable](https://www.stefanjudis.com/today-i-learned/elements-with-overflow-hidden-are-scrollable/) | 
+| [Monthly Digest April 2020](https://www.stefanjudis.com/blog/monthly-digest-april-2020/) | [Define where an element should be scrolled to using elem.scrollIntoView ](https://www.stefanjudis.com/today-i-learned/define-where-an-element-should-be-scrolled-to-using-elem-scrollintoview/) | 
+| [Monthly Digest March 2020](https://www.stefanjudis.com/blog/monthly-digest-march-2020/) | [GraphQL Playground offers a protocol handler](https://www.stefanjudis.com/today-i-learned/graphql-playground-offers-a-protocol-handler/) | 
+| [Monthly Digest February 2020](https://www.stefanjudis.com/blog/monthly-digest-february-2020/) | [The ex unit in CSS](https://www.stefanjudis.com/today-i-learned/the-ex-unit-in-css/) | 
 
-Articles last updated: 8/20/2020
+Articles last updated: 8/21/2020
 <!-- TABLE_END -->
 
 ---
