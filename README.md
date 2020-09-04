@@ -15,7 +15,7 @@ You can read along on my [blog](https://www.stefanjudis.com/).
 | [Monthly Digest April 2020](https://www.stefanjudis.com/blog/monthly-digest-april-2020/) | [GraphQL Playground offers a protocol handler](https://www.stefanjudis.com/today-i-learned/graphql-playground-offers-a-protocol-handler/) | 
 | [Monthly Digest March 2020](https://www.stefanjudis.com/blog/monthly-digest-march-2020/) | [The ex unit in CSS](https://www.stefanjudis.com/today-i-learned/the-ex-unit-in-css/) | 
 
-Articles last updated: 9/3/2020
+Articles last updated: 9/4/2020
 <!-- TABLE_END -->
 
 ---
