@@ -7,11 +7,11 @@
 You can read along on my [blog](https://www.stefanjudis.com/).
 
 <!-- BLOG-POST-LIST:START -->
+- [How to target non-empty but invalid input element with CSS (#note)](https://www.stefanjudis.com/notes/target-non-empty-but-invalid-input-element-with-css/)
 - [Bash scripting pitfalls and solutions – how to do (safe) things in bash (#note)](https://www.stefanjudis.com/notes/bash-scripting-pitfalls-and-solutions-how-to-do-safe-things-in-bash/)
 - [Monthly Digest August 2020 (#blogPost)](https://www.stefanjudis.com/blog/monthly-digest-august-2020/)
 - [Should every error result in an error in GraphQL, too? (#note)](https://www.stefanjudis.com/notes/should-every-error-result-in-an-error-in-graphql-too/)
 - [The navigation timing API includes the type of the current navigation (#tilPost)](https://www.stefanjudis.com/today-i-learned/the-navigation-timing-api-and-the-type-of-the-current-navigation/)
-- [Elements with overflow: hidden are scrollable (#tilPost)](https://www.stefanjudis.com/today-i-learned/elements-with-overflow-hidden-are-scrollable/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
