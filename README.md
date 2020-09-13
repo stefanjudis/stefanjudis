@@ -4,7 +4,12 @@
   <img src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/headline.svg" width="800" height="120">
 </div>
 
-You can read along on my [blog](https://www.stefanjudis.com/).
+### Stay up to date
+
+- [Newsletter](https://www.stefanjudis.com/newsletter/)
+- [RSS](https://www.stefanjudis.com/feeds/)
+
+### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
 - [How to preload responsive images with imagesizes and imagesrcset (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-preload-responsive-images-with-imagesizes-and-imagesrcset/)
