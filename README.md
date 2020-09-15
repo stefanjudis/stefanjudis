@@ -12,11 +12,11 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
+- [How to schedule JAMstack deploys with Netlify and GitHub (#snippet)](https://www.stefanjudis.com/snippets/how-to-schedule-jamstack-deploys-with-netlify-and-github/)
 - [How to tell browsers that your site supports color-schemes (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-tell-browsers-that-your-site-supports-color-schemes/)
 - [How to preload responsive images with imagesizes and imagesrcset (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-preload-responsive-images-with-imagesizes-and-imagesrcset/)
 - [How to define element aspect-ratios with CSS custom properties (#note)](https://www.stefanjudis.com/notes/how-to-define-element-aspect-ratios-with-css-custom-properties/)
 - [How to target non-empty but invalid input elements with CSS (#note)](https://www.stefanjudis.com/notes/target-non-empty-but-invalid-input-element-with-css/)
-- [Bash scripting pitfalls and solutions – how to do (safe) things in bash (#note)](https://www.stefanjudis.com/notes/bash-scripting-pitfalls-and-solutions-how-to-do-safe-things-in-bash/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
