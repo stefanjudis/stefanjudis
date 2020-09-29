@@ -12,11 +12,11 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
+- [How to unregister all installed service workers in Chrome (#snippet)](https://www.stefanjudis.com/snippets/how-to-unregister-all-installed-service-workers-in-chrome/)
 - [An approach to write better image alt text (#note)](https://www.stefanjudis.com/notes/an-approach-to-write-better-image-alt-text/)
 - [How to create a diff of npm package releases on the command line (#snippet)](https://www.stefanjudis.com/snippets/how-to-create-a-diff-of-npm-package-releases-on-the-command-line/)
 - [Emmet VS Code bindings to level up HTML editing (#blogPost)](https://www.stefanjudis.com/blog/emmet-vs-code-bindings-to-level-up-html-editing/)
 - [The downsides of React Hooks (#note)](https://www.stefanjudis.com/notes/the-downsides-of-react-hooks/)
-- [How to schedule JAMstack deploys with Netlify and GitHub (#snippet)](https://www.stefanjudis.com/snippets/how-to-schedule-jamstack-deploys-with-netlify-and-github/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
