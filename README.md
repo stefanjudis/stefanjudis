@@ -12,7 +12,7 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
-- [Greatly visualised correlation is still not causation (#note)](https://www.stefanjudis.com/notes/greatly-visualised-correlation-is-still-not-causation/)
+- [Greatly visualised: correlation is not always causation (#note)](https://www.stefanjudis.com/notes/greatly-visualised-correlation-is-still-not-causation/)
 - [How to unregister all installed service workers in Chrome (#snippet)](https://www.stefanjudis.com/snippets/how-to-unregister-all-installed-service-workers-in-chrome/)
 - [An approach to write better image alt text (#note)](https://www.stefanjudis.com/notes/an-approach-to-write-better-image-alt-text/)
 - [How to create a diff of npm package releases on the command line (#snippet)](https://www.stefanjudis.com/snippets/how-to-create-a-diff-of-npm-package-releases-on-the-command-line/)
