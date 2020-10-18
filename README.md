@@ -13,10 +13,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Say goodbye to resource-caching across sites and domains (#note)](https://www.stefanjudis.com/notes/say-goodbye-to-resource-caching-across-sites-and-domains/)
+- [How to use git's file diff outside of git repositories (#snippet)](https://www.stefanjudis.com/snippets/how-to-use-gits-file-diff-outside-of-git-repositories/)
 - [JavaScript tools that aren't built with JavaScript (#note)](https://www.stefanjudis.com/notes/javascript-tools-that-arent-built-with-javascript/)
 - [Monthly Digest September 2020 (#blogPost)](https://www.stefanjudis.com/blog/monthly-digest-september-2020/)
 - [Greatly visualised: correlation is not always causation (#note)](https://www.stefanjudis.com/notes/greatly-visualised-correlation-is-still-not-causation/)
-- [How to unregister all installed service workers in Chrome (#snippet)](https://www.stefanjudis.com/snippets/how-to-unregister-all-installed-service-workers-in-chrome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
