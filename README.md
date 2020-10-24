@@ -12,11 +12,11 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
+- [How to let all your users know what to expect when they click a link (#snippet)](https://www.stefanjudis.com/snippets/how-to-let-all-your-users-know-what-to-expect-when-they-click-a-link/)
 - [CSS content-visibility very well explained (#note)](https://www.stefanjudis.com/notes/css-content-visibility-very-well-explained/)
 - [Say goodbye to resource-caching across sites and domains (#note)](https://www.stefanjudis.com/notes/say-goodbye-to-resource-caching-across-sites-and-domains/)
 - [How to use git's file diff outside of git repositories (#snippet)](https://www.stefanjudis.com/snippets/how-to-use-gits-file-diff-outside-of-git-repositories/)
 - [JavaScript tools that aren't built with JavaScript (#note)](https://www.stefanjudis.com/notes/javascript-tools-that-arent-built-with-javascript/)
-- [Monthly Digest September 2020 (#blogPost)](https://www.stefanjudis.com/blog/monthly-digest-september-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
