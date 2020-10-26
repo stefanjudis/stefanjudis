@@ -12,11 +12,11 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
+- [The over-engineering of everyday tools and apps (#note)](https://www.stefanjudis.com/notes/the-over-engineering-of-everyday-tools-and-apps/)
 - [How to let all your users know what to expect when they click a link (#snippet)](https://www.stefanjudis.com/snippets/how-to-let-all-your-users-know-what-to-expect-when-they-click-a-link/)
 - [CSS content-visibility very well explained (#note)](https://www.stefanjudis.com/notes/css-content-visibility-very-well-explained/)
 - [Say goodbye to resource-caching across sites and domains (#note)](https://www.stefanjudis.com/notes/say-goodbye-to-resource-caching-across-sites-and-domains/)
 - [How to use git's file diff outside of git repositories (#snippet)](https://www.stefanjudis.com/snippets/how-to-use-gits-file-diff-outside-of-git-repositories/)
-- [JavaScript tools that aren't built with JavaScript (#note)](https://www.stefanjudis.com/notes/javascript-tools-that-arent-built-with-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
