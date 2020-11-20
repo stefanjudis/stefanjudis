@@ -12,11 +12,11 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
-- [1025 Shell comand one liners on one page (#note)](https://www.stefanjudis.com/notes/1025-shell-comand-one-liners-on-one-page/)
+- [How to force yourself to leave the computer using the leave command (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-force-yourself-to-leave-the-computer-using-the-leave-command/)
+- [1025 shell command one-liners on one page (#note)](https://www.stefanjudis.com/notes/1025-shell-command-one-liners-on-one-page/)
 - [Inputs of type date support min, max and step attributes (#tilPost)](https://www.stefanjudis.com/today-i-learned/inputs-of-type-date-support-min-and-max-attributes/)
 - [How to run GitHub actions on particular commits (#snippet)](https://www.stefanjudis.com/snippets/how-to-run-github-actions-on-particular-commits/)
 - [Monthly Digest October 2020 (#blogPost)](https://www.stefanjudis.com/blog/monthly-digest-october-2020/)
-- [To the power of Gmail filters (#note)](https://www.stefanjudis.com/notes/to-the-power-of-gmail-filters/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
