@@ -12,11 +12,11 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
+- [Two resources to find your next editor font (#note)](https://www.stefanjudis.com/notes/two-resources-to-find-your-next-editor-font/)
 - [How to force yourself to leave the computer using the leave command (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-force-yourself-to-leave-the-computer-using-the-leave-command/)
 - [1025 shell command one-liners on one page (#note)](https://www.stefanjudis.com/notes/1025-shell-command-one-liners-on-one-page/)
 - [Inputs of type date support min, max and step attributes (#tilPost)](https://www.stefanjudis.com/today-i-learned/inputs-of-type-date-support-min-and-max-attributes/)
 - [How to run GitHub actions on particular commits (#snippet)](https://www.stefanjudis.com/snippets/how-to-run-github-actions-on-particular-commits/)
-- [Monthly Digest October 2020 (#blogPost)](https://www.stefanjudis.com/blog/monthly-digest-october-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
