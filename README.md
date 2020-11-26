@@ -12,11 +12,11 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
+- [Radio buttons, checkbox and the question when to use what (#note)](https://www.stefanjudis.com/notes/radio-buttons-checkbox-and-the-question-when-to-use-what/)
 - [Actions against "Full Stack Anxiety" (#note)](https://www.stefanjudis.com/notes/actions-against-full-stack-anxiety/)
 - [A centered CSS navigation with fit-content (#snippet)](https://www.stefanjudis.com/snippets/a-centered-css-navigation-with-fit-content/)
 - [Two resources to find your next editor font (#note)](https://www.stefanjudis.com/notes/two-resources-to-find-your-next-editor-font/)
 - [How to force yourself to leave the computer using the leave command (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-force-yourself-to-leave-the-computer-using-the-leave-command/)
-- [1025 shell command one-liners on one page (#note)](https://www.stefanjudis.com/notes/1025-shell-command-one-liners-on-one-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
