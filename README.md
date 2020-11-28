@@ -13,10 +13,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to display Twitch emotes in tmi.js chat messages (#blogPost)](https://www.stefanjudis.com/blog/how-to-display-twitch-emotes-in-tmi-js-chat-messages/)
+- [How to extract images (and media files) from Word and Keynote documents (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-extract-images-and-media-files-from-word-and-keynote-documents/)
 - [Radio buttons, checkbox and the question when to use what (#note)](https://www.stefanjudis.com/notes/radio-buttons-checkbox-and-the-question-when-to-use-what/)
 - [Actions against "Full Stack Anxiety" (#note)](https://www.stefanjudis.com/notes/actions-against-full-stack-anxiety/)
 - [A centered CSS navigation with fit-content (#snippet)](https://www.stefanjudis.com/snippets/a-centered-css-navigation-with-fit-content/)
-- [Two resources to find your next editor font (#note)](https://www.stefanjudis.com/notes/two-resources-to-find-your-next-editor-font/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
