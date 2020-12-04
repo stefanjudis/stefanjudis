@@ -12,11 +12,11 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
+- [How to display the last build date in Eleventy (#snippet)](https://www.stefanjudis.com/snippets/how-to-display-the-build-date-in-eleventy/)
 - [Monthly Digest November 2020 (#blogPost)](https://www.stefanjudis.com/blog/monthly-digest-november-2020/)
 - [How to make textareas grow automatically with a little bit of CSS and one line of JavaScript (#note)](https://www.stefanjudis.com/notes/how-to-make-textareas-grow-automatically-with-a-little-bit-of-css-and-one/)
 - [How to display Twitch emotes in tmi.js chat messages (#blogPost)](https://www.stefanjudis.com/blog/how-to-display-twitch-emotes-in-tmi-js-chat-messages/)
 - [How to extract images (and media files) from Word and Keynote documents (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-extract-images-and-media-files-from-word-and-keynote-documents/)
-- [Radio buttons, checkbox and the question when to use what (#note)](https://www.stefanjudis.com/notes/radio-buttons-checkbox-and-the-question-when-to-use-what/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
