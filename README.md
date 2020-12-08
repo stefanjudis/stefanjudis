@@ -12,11 +12,11 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
+- [A tick to run shell examples with a leading $ (#snippet)](https://www.stefanjudis.com/snippets/a-tick-to-run-shell-examples-with-a-leading-usd/)
 - [slowfil.es – a service for slow assets with high priority (#note)](https://www.stefanjudis.com/notes/slowfil-es-a-service-for-slow-assets-with-high-priority/)
 - [addEventListener accepts functions and (!) objects (#tilPost)](https://www.stefanjudis.com/today-i-learned/addeventlistener-accepts-functions-and-objects/)
 - [How to display the last build date in Eleventy (#snippet)](https://www.stefanjudis.com/snippets/how-to-display-the-build-date-in-eleventy/)
 - [Monthly Digest November 2020 (#blogPost)](https://www.stefanjudis.com/blog/monthly-digest-november-2020/)
-- [How to make textareas grow automatically with a little bit of CSS and one line of JavaScript (#note)](https://www.stefanjudis.com/notes/how-to-make-textareas-grow-automatically-with-a-little-bit-of-css-and-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
