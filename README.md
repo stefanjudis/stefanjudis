@@ -12,7 +12,7 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
-- [A git alias to show a detailed git branch overview (time ago, branch name, last commit) (#snippet)](https://www.stefanjudis.com/snippets/a-git-alias-to-show-a-detailed-git-branch-overview-time-ago-branch-name-last/)
+- [A git alias to show a detailed git branch overview (#snippet)](https://www.stefanjudis.com/snippets/a-git-alias-to-show-a-detailed-git-branch-overview/)
 - [My Mac didn't boot after installing a driver, here's how I fixed it. (#blogPost)](https://www.stefanjudis.com/blog/my-mac-didnt-boot-after-installing-a-driver-heres-how-i-fixed-it/)
 - [Tips and tricks to navigate your project files in VS Code (#note)](https://www.stefanjudis.com/notes/tips-and-tricks-to-navigate-your-project-files-in-vs-code/)
 - [A trick to run shell examples with a leading $ (#snippet)](https://www.stefanjudis.com/snippets/a-tick-to-run-shell-examples-with-a-leading-usd/)
