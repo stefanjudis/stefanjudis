@@ -1,8 +1,8 @@
 <img alt width="30" height="30" src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/headline.svg" width="800" height="120">
-</div>
+## Heyooo, I'm Stefan.
+
+> I write, speak and stream about web technology.
 
 ### Stay up to date
 
