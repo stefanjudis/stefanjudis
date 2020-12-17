@@ -4,12 +4,12 @@
 
 > I write, speak and stream about web technology.
 
-### Stay up to date
+### Stay up to date with the things I do
 
 - [Newsletter](https://www.stefanjudis.com/newsletter/)
 - [RSS](https://www.stefanjudis.com/feeds/)
 
-### Last articles ([view all](https://www.stefanjudis.com/blog/))
+### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
 - [A git alias to show a detailed git branch overview (#snippet)](https://www.stefanjudis.com/snippets/a-git-alias-to-show-a-detailed-git-branch-overview/)
