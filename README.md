@@ -12,11 +12,11 @@
 ### Last articles ([view all](https://www.stefanjudis.com/blog/))
 
 <!-- BLOG-POST-LIST:START -->
+- [A git alias to show a detailed git branch overview (time ago, branch name, last commit) (#snippet)](https://www.stefanjudis.com/snippets/a-git-alias-to-show-a-detailed-git-branch-overview-time-ago-branch-name-last/)
 - [My Mac didn't boot after installing a driver, here's how I fixed it. (#blogPost)](https://www.stefanjudis.com/blog/my-mac-didnt-boot-after-installing-a-driver-heres-how-i-fixed-it/)
 - [Tips and tricks to navigate your project files in VS Code (#note)](https://www.stefanjudis.com/notes/tips-and-tricks-to-navigate-your-project-files-in-vs-code/)
 - [A trick to run shell examples with a leading $ (#snippet)](https://www.stefanjudis.com/snippets/a-tick-to-run-shell-examples-with-a-leading-usd/)
 - [slowfil.es – a service for slow assets with high priority (#note)](https://www.stefanjudis.com/notes/slowfil-es-a-service-for-slow-assets-with-high-priority/)
-- [addEventListener accepts functions and (!) objects (#tilPost)](https://www.stefanjudis.com/today-i-learned/addeventlistener-accepts-functions-and-objects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
