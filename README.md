@@ -1,22 +1,22 @@
 <img alt width="30" height="30" src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/headline.svg" width="800" height="120">
-</div>
+## Heyooo, I'm Stefan.
 
-### Stay up to date
+> I write, speak and stream about web technology.
+
+### Stay up to date with the things I do
 
 - [Newsletter](https://www.stefanjudis.com/newsletter/)
 - [RSS](https://www.stefanjudis.com/feeds/)
 
-### Last articles ([view all](https://www.stefanjudis.com/blog/))
+### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to preload responsive images with imagesizes and imagesrcset (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-preload-responsive-images-with-imagesizes-and-imagesrcset/)
-- [How to define element aspect-ratios with CSS custom properties (#note)](https://www.stefanjudis.com/notes/how-to-define-element-aspect-ratios-with-css-custom-properties/)
-- [How to target non-empty but invalid input elements with CSS (#note)](https://www.stefanjudis.com/notes/target-non-empty-but-invalid-input-element-with-css/)
-- [Bash scripting pitfalls and solutions – how to do (safe) things in bash (#note)](https://www.stefanjudis.com/notes/bash-scripting-pitfalls-and-solutions-how-to-do-safe-things-in-bash/)
-- [Monthly Digest August 2020 (#blogPost)](https://www.stefanjudis.com/blog/monthly-digest-august-2020/)
+- [A git alias to show a detailed git branch overview (#snippet)](https://www.stefanjudis.com/snippets/a-git-alias-to-show-a-detailed-git-branch-overview/)
+- [My Mac didn't boot after installing a driver, here's how I fixed it. (#blogPost)](https://www.stefanjudis.com/blog/my-mac-didnt-boot-after-installing-a-driver-heres-how-i-fixed-it/)
+- [Tips and tricks to navigate your project files in VS Code (#note)](https://www.stefanjudis.com/notes/tips-and-tricks-to-navigate-your-project-files-in-vs-code/)
+- [A trick to run shell examples with a leading $ (#snippet)](https://www.stefanjudis.com/snippets/a-tick-to-run-shell-examples-with-a-leading-usd/)
+- [slowfil.es – a service for slow assets with high priority (#note)](https://www.stefanjudis.com/notes/slowfil-es-a-service-for-slow-assets-with-high-priority/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
