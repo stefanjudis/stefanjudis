@@ -12,11 +12,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [iTerm2 offers a way to notify you when a long-running command finished (#tilPost)](https://www.stefanjudis.com/today-i-learned/iterm2-offers-a-way-to-notify-you-when-a-long-running-command-finished/)
 - [How to build useful, empathic and robust CLI tools (#note)](https://www.stefanjudis.com/notes/how-to-build-useful-empathic-and-robust-cli-tools/)
 - [How to enforce pinch-to-zoom in Android browsers (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-enforce-pinch-to-zoom-in-android-browsers/)
 - [A git alias to show a detailed git branch overview (#snippet)](https://www.stefanjudis.com/snippets/a-git-alias-to-show-a-detailed-git-branch-overview/)
 - [My Mac didn't boot after installing a driver, here's how I fixed it. (#blogPost)](https://www.stefanjudis.com/blog/my-mac-didnt-boot-after-installing-a-driver-heres-how-i-fixed-it/)
-- [Tips and tricks to navigate your project files in VS Code (#note)](https://www.stefanjudis.com/notes/tips-and-tricks-to-navigate-your-project-files-in-vs-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
