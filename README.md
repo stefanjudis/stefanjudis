@@ -13,10 +13,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Web Weekly #2 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-2/)
+- [Array.prototype.at is on its way (#note)](https://www.stefanjudis.com/notes/array-prototype-at-is-on-its-way/)
 - [The state of PWAs (progressive web apps) in 2020/2021 (#note)](https://www.stefanjudis.com/notes/the-state-of-pwa-adoption-in-2020-2021/)
 - [Email inputs can accept multiple email addresses (#tilPost)](https://www.stefanjudis.com/today-i-learned/email-inputs-can-accept-multiple-email-addresses/)
 - [Web Weekly #1 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-1/)
-- [Monthly Digest December 2020 (#blogPost)](https://www.stefanjudis.com/blog/monthly-digest-december-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
