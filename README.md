@@ -12,11 +12,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to select elements that are not children of other elements in CSS (#snippet)](https://www.stefanjudis.com/snippets/how-to-select-elements-that-are-not-children-of-other-elements-in-css/)
 - [How to record screen actions as a puppeteer script (#blogPost)](https://www.stefanjudis.com/blog/how-to-record-screen-actions-as-a-puppeteer-script/)
 - [Web Weekly #3 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-3/)
 - [A React "if component" (#snippet)](https://www.stefanjudis.com/snippets/a-react-if-component/)
 - [CSS media queries can be nested (#tilPost)](https://www.stefanjudis.com/today-i-learned/css-media-queries-can-be-nested/)
-- [Finding macOS command line settings and options (#note)](https://www.stefanjudis.com/notes/finding-macos-command-line-settings-and-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
