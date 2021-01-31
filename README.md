@@ -13,8 +13,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to select elements that are not children of other elements in CSS (#snippet)](https://www.stefanjudis.com/snippets/how-to-select-elements-that-are-not-children-of-other-elements-in-css/)
-- [How to record screen actions as a puppeteer script (#blogPost)](https://www.stefanjudis.com/blog/how-to-record-screen-actions-as-a-puppeteer-script/)
 - [Web Weekly #3 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-3/)
+- [How to record screen actions as a puppeteer script (#blogPost)](https://www.stefanjudis.com/blog/how-to-record-screen-actions-as-a-puppeteer-script/)
 - [A React "if component" (#snippet)](https://www.stefanjudis.com/snippets/a-react-if-component/)
 - [CSS media queries can be nested (#tilPost)](https://www.stefanjudis.com/today-i-learned/css-media-queries-can-be-nested/)
 <!-- BLOG-POST-LIST:END -->
