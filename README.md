@@ -12,11 +12,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Will Miniapps become a thing? (#note)](https://www.stefanjudis.com/notes/will-miniapps-become-a-thing/)
 - [Web Weekly #4 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-4/)
 - [How to select elements that are not children of other elements in CSS (#snippet)](https://www.stefanjudis.com/snippets/how-to-select-elements-that-are-not-children-of-other-elements-in-css/)
 - [Web Weekly #3 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-3/)
 - [How to record screen actions as a puppeteer script (#blogPost)](https://www.stefanjudis.com/blog/how-to-record-screen-actions-as-a-puppeteer-script/)
-- [A React "if component" (#snippet)](https://www.stefanjudis.com/snippets/a-react-if-component/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
