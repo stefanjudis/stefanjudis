@@ -12,11 +12,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #7 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-7/)
 - [GraphQL Voyager – an interactive GraphQL schema explorer (#note)](https://www.stefanjudis.com/notes/graphql-voyager-an-interactive-graphql-schema-explorer/)
 - [How to log JavaScript stack traces and objects using console.trace (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-log-javascript-stack-traces-using-console-trace/)
 - [Web Weekly #6 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-6/)
 - [How to use and feature-detect CSS grid masonry layout (#blogPost)](https://www.stefanjudis.com/blog/how-to-use-and-feature-detect-css-grid-masonry-layout/)
-- [github1s – open any GitHub repository in VS Code in your browser (#note)](https://www.stefanjudis.com/notes/github1s-open-any-github-repository-in-vs-code-in-your-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
