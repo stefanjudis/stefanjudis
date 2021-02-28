@@ -12,7 +12,7 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use language dependent quotes in CSS (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-use-language-dependent-quotes-in-css/)
+- [How to display language-specific quotes in CSS (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-use-language-dependent-quotes-in-css/)
 - [A terminal script to get notified when macOS changes its appearance (dark/light mode) (#note)](https://www.stefanjudis.com/notes/a-terminal-script-to-get-notified-when-macos-changes-its-appearance-dark/)
 - [Web Weekly #7 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-7/)
 - [GraphQL Voyager – an interactive GraphQL schema explorer (#note)](https://www.stefanjudis.com/notes/graphql-voyager-an-interactive-graphql-schema-explorer/)
