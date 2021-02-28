@@ -12,11 +12,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use language dependent quotes in CSS (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-use-language-dependent-quotes-in-css/)
 - [A terminal script to get notified when macOS changes its appearance (dark/light mode) (#note)](https://www.stefanjudis.com/notes/a-terminal-script-to-get-notified-when-macos-changes-its-appearance-dark/)
 - [Web Weekly #7 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-7/)
 - [GraphQL Voyager – an interactive GraphQL schema explorer (#note)](https://www.stefanjudis.com/notes/graphql-voyager-an-interactive-graphql-schema-explorer/)
 - [How to log JavaScript stack traces and objects using console.trace (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-log-javascript-stack-traces-using-console-trace/)
-- [Web Weekly #6 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
