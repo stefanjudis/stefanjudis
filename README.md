@@ -12,11 +12,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS defines functions to repeat gradients (#tilPost)](https://www.stefanjudis.com/today-i-learned/css-defines-functions-to-repeat-gradients/)
 - [The art of convincing presentations and slides (#note)](https://www.stefanjudis.com/notes/the-art-of-convincing-presentations-and-slides/)
 - [window.close() and different browser implementations – it's complicated... (#note)](https://www.stefanjudis.com/notes/window-close-and-different-browser-implementations-its-complicated/)
 - [Web Weekly #9 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-9/)
 - [Text transforms support capilization (#tilPost)](https://www.stefanjudis.com/today-i-learned/text-transforms-support-capilization/)
-- [Why I don't need to clean up my desktop and downloads folder in macOS (#blogPost)](https://www.stefanjudis.com/blog/why-i-dont-need-to-clean-up-my-desktop-and-downloads-folder-in-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
