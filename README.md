@@ -12,11 +12,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #12 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-12/)
 - [Web Weekly #11 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-11/)
 - [HTML defines a ping attribute on anchor elements (links) (#tilPost)](https://www.stefanjudis.com/today-i-learned/html-defines-a-ping-attribute-on-anchor-elements-links/)
 - [How to list all open GitHub pull requests and select one on the command line (#snippet)](https://www.stefanjudis.com/snippets/how-to-list-all-open-github-pull-requests-and-select-one-on-the-command-line/)
 - [How trigger file downloads with JavaScript (#snippet)](https://www.stefanjudis.com/snippets/how-trigger-file-downloads-with-javascript/)
-- [The output HTML element is an aria-live region (#tilPost)](https://www.stefanjudis.com/today-i-learned/the-output-html-element-is-an-aria-live-region/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
