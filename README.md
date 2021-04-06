@@ -12,11 +12,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- ["HTML End Tag Labels" – a useful VSCode extension to navigate HTML (#note)](https://www.stefanjudis.com/notes/html-end-tag-labels-a-useful-vscode-extension-to-navigate-html/)
 - [Web Weekly #13 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-13/)
 - [Top-level await is available in Node.js modules (#tilPost)](https://www.stefanjudis.com/today-i-learned/top-level-await-is-available-in-node-js-modules/)
 - [How to download a GitHub repo without the git history using npm (#snippet)](https://www.stefanjudis.com/snippets/how-to-download-a-github-repo-without-the-git-history-using-npm/)
 - [Web Weekly #12 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-12/)
-- [Web Weekly #11 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
