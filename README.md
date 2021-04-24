@@ -4,11 +4,6 @@
 
 > I write, speak and stream about web technology.
 
-### Stay up to date with the things I do
-
-- [Newsletter](https://www.stefanjudis.com/newsletter/)
-- [RSS](https://www.stefanjudis.com/feeds/)
-
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
@@ -18,6 +13,11 @@
 - [Web Weekly #14 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-14/)
 - [How to style the select button of file inputs (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-style-the-select-button-of-file-inputs/)
 <!-- BLOG-POST-LIST:END -->
+
+### Stay up to date
+
+- [Join my newsletter](https://www.stefanjudis.com/newsletter/)
+- [Follow on RSS](https://www.stefanjudis.com/feeds/)
 
 ---
 
