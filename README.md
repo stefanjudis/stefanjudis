@@ -12,11 +12,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [A git alias to show a detailed git branch overview (#snippet)](https://www.stefanjudis.com/snippets/a-git-alias-to-show-a-detailed-git-branch-overview/)
-- [My Mac didn't boot after installing a driver, here's how I fixed it. (#blogPost)](https://www.stefanjudis.com/blog/my-mac-didnt-boot-after-installing-a-driver-heres-how-i-fixed-it/)
-- [Tips and tricks to navigate your project files in VS Code (#note)](https://www.stefanjudis.com/notes/tips-and-tricks-to-navigate-your-project-files-in-vs-code/)
-- [A trick to run shell examples with a leading $ (#snippet)](https://www.stefanjudis.com/snippets/a-tick-to-run-shell-examples-with-a-leading-usd/)
-- [slowfil.es – a service for slow assets with high priority (#note)](https://www.stefanjudis.com/notes/slowfil-es-a-service-for-slow-assets-with-high-priority/)
+- [How to style and define the color of radio and checkbox inputs (#snippet)](https://www.stefanjudis.com/snippets/how-to-style-and-define-the-color-of-radio-and-checkbox-inputs/)
+- [Web Weekly #15 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-15/)
+- [How to make GitHub Actions send Tweets (#note)](https://www.stefanjudis.com/notes/how-to-make-github-actions-send-tweets/)
+- [Web Weekly #14 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-14/)
+- [How to style the select button of file inputs (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-style-the-select-button-of-file-inputs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
