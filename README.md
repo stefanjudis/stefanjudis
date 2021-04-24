@@ -12,8 +12,9 @@
 
 ### Stay up to date
 
-- [Join my newsletter](https://www.stefanjudis.com/newsletter/)
-- [Follow on RSS](https://www.stefanjudis.com/feeds/)
+- [Subscribe to my newsletter](https://www.stefanjudis.com/newsletter/)
+- [Follow RSS](https://www.stefanjudis.com/feeds/)
+- [Subscribe on YouTube](https://youtube.com/c/stefanjudis)
 
 ---
 
