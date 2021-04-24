@@ -1,9 +1,5 @@
 <img alt="Heyo, I'm Stefan. I write and speak about web technology." src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png">
 
-## Heyooo, I'm Stefan.
-
-> I write, speak and stream about web technology.
-
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
