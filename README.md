@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A CSS-only typewriter effect (#snippet)](https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/)
+- [How to disable scaling for stroke width (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-disable-scaling-for-stroke-width/)
+- [Web Weekly #16 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-16/)
+- [How to read an entire document using VoiceOver (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-read-an-entire-document-using-voiceover/)
 - [How to style and define the color of radio and checkbox inputs (#snippet)](https://www.stefanjudis.com/snippets/how-to-style-and-define-the-color-of-radio-and-checkbox-inputs/)
-- [Web Weekly #15 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-15/)
-- [How to make GitHub Actions send Tweets (#note)](https://www.stefanjudis.com/notes/how-to-make-github-actions-send-tweets/)
-- [Web Weekly #14 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-14/)
-- [How to style the select button of file inputs (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-style-the-select-button-of-file-inputs/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
