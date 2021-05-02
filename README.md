@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Should DevTools teach the CSS cascade? (#blogPost)](https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/)
+- [Web Weekly #17 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-17/)
 - [A CSS-only typewriter effect (#snippet)](https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/)
 - [How to disable scaling for stroke width (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-disable-scaling-for-stroke-width/)
 - [Web Weekly #16 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-16/)
-- [How to read an entire document using VoiceOver (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-read-an-entire-document-using-voiceover/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
