@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to define Open Graph / Twitter image alt text (and why it might not matter...) (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-define-open-graph-twitter-image-alt-text-and-why-it-might-not-matter/)
 - [Web Weekly #18 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-18/)
 - [Firefox support selection of multiple text areas (#tilPost)](https://www.stefanjudis.com/today-i-learned/firefox-support-selection-of-multiple-text-areas/)
 - [Should DevTools teach the CSS cascade? (#blogPost)](https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/)
 - [Web Weekly #17 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-17/)
-- [A CSS-only typewriter effect (#snippet)](https://www.stefanjudis.com/snippets/a-css-only-typewriter-effect/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
