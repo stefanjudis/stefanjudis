@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS "inset" is supported across all major browsers (#note)](https://www.stefanjudis.com/notes/css-inset-is-supported-across-all-major-browsers/)
 - [How to start using all the aliases you set up (and forgot) (#note)](https://www.stefanjudis.com/notes/how-to-start-using-all-the-aliases-you-set-up-and-forgot/)
 - [How to import JSON files in ES modules (Node.js) (#snippet)](https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules-node-js/)
 - [How to define Open Graph / Twitter image alt text (and why it might not matter...) (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-define-open-graph-twitter-image-alt-text-and-why-it-might-not-matter/)
 - [Web Weekly #18 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-18/)
-- [Firefox support selection of multiple text areas (#tilPost)](https://www.stefanjudis.com/today-i-learned/firefox-support-selection-of-multiple-text-areas/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
