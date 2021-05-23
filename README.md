@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A custom "dev" command with auto-completion (#snippet)](https://www.stefanjudis.com/snippets/a-custom-dev-command-with-auto-completion/)
 - [Web Weekly #19 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-19/)
 - [CSS "inset" is supported across all major browsers (#note)](https://www.stefanjudis.com/notes/css-inset-is-supported-across-all-major-browsers/)
 - [How to start using all the aliases you set up (and forgot) (#note)](https://www.stefanjudis.com/notes/how-to-start-using-all-the-aliases-you-set-up-and-forgot/)
 - [How to import JSON files in ES modules (Node.js) (#snippet)](https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules-node-js/)
-- [How to define Open Graph / Twitter image alt text (and why it might not matter...) (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-define-open-graph-twitter-image-alt-text-and-why-it-might-not-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
