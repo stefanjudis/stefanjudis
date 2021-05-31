@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #21 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-21/)
 - [Web Weekly #20 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-20/)
 - [How parameter expansion helps to not accidentally delete all the files on your machine (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-parameter-expansion-helps-to-not-delete-everything/)
 - [A custom "dev" command with auto-completion (#snippet)](https://www.stefanjudis.com/snippets/a-custom-dev-command-with-auto-completion/)
 - [Web Weekly #19 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-19/)
-- [CSS "inset" is supported across all major browsers (#note)](https://www.stefanjudis.com/notes/css-inset-is-supported-across-all-major-browsers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
