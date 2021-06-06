@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #22 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-22/)
 - [CSS defines color values that follow system preferences (#tilPost)](https://www.stefanjudis.com/today-i-learned/css-defines-color-values-that-follow-system-preferences/)
 - [How to import JSON files in ES modules (#snippet)](https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules/)
 - [Web Weekly #21 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-21/)
 - [How to add a directory but ignore included files in git (#snippet)](https://www.stefanjudis.com/snippets/how-to-add-a-directory-but-ignore-included-files-in-git/)
-- [Web Weekly #20 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-20/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
