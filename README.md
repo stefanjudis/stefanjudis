@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to find all internal pages in Chromiums and Firefox (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-find-all-internal-pages-in-chromiums-and-firefox/)
 - [Web Weekly #24 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-24/)
 - [Web Weekly #23 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-23/)
 - [Web Weekly #22 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-22/)
 - [CSS defines color values that follow system preferences (#tilPost)](https://www.stefanjudis.com/today-i-learned/css-defines-color-values-that-follow-system-preferences/)
-- [How to import JSON files in ES modules (#snippet)](https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
