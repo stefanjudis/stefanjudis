@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #26 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-26/)
 - [How to visualize the tab order without using an extension in Firefox (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-visualize-the-tab-order-without-using-an-extension-in-firefox/)
 - [Web Weekly #25 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-25/)
 - [How to find all internal pages in Chromiums and Firefox (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-find-all-internal-pages-in-chromiums-and-firefox/)
 - [Web Weekly #24 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-24/)
-- [Web Weekly #23 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-23/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
