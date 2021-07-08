@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-colored text in CSS (#snippet)](https://www.stefanjudis.com/snippets/multi-colored-text-in-css/)
 - [Input-wrapping labels are not supported by Dragon (#note)](https://www.stefanjudis.com/notes/input-wrapping-labels-are-not-supported-by-dragon/)
 - [Web Weekly #26 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-26/)
 - [How to visualize the tab order without using an extension in Firefox (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-visualize-the-tab-order-without-using-an-extension-in-firefox/)
 - [Mobile Safari doesn't zoom into form inputs with minimum 16px (#note)](https://www.stefanjudis.com/notes/mobile-safari-doesnt-zoom-into-form-inputs-with-minimum-16px/)
-- [Web Weekly #25 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-25/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
