@@ -8,7 +8,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to run apps in low-resolution on macOS (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-run-apps-in-low-resolution-on-macos/)
-- [How to "just" run CLI commands with a leading "$" sign (#blogPost)](https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign/)
+- [How to run copied CLI commands with a leading "$" sign (#blogPost)](https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign/)
 - [Multi-colored text in CSS (#snippet)](https://www.stefanjudis.com/snippets/multi-colored-text-in-css/)
 - [Input-wrapping labels are not supported by Dragon (#note)](https://www.stefanjudis.com/notes/input-wrapping-labels-are-not-supported-by-dragon/)
 - [Web Weekly #26 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-26/)
