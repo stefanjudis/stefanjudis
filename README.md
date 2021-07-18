@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A natural shadow with SVG filters (#snippet)](https://www.stefanjudis.com/snippets/a-natural-shadow-with-svg-filters/)
 - [Web Weekly #27 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-27/)
 - [How to run apps in low-resolution on macOS (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-run-apps-in-low-resolution-on-macos/)
 - [How to run copied CLI commands with a leading "$" sign (#blogPost)](https://www.stefanjudis.com/blog/how-to-run-commands-with-a-leading-usd-sign/)
 - [Multi-colored text in CSS (#snippet)](https://www.stefanjudis.com/snippets/multi-colored-text-in-css/)
-- [Input-wrapping labels are not supported by Dragon (#note)](https://www.stefanjudis.com/notes/input-wrapping-labels-are-not-supported-by-dragon/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
