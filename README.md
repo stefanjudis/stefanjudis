@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A VSCode extension to understand function parameters (#note)](https://www.stefanjudis.com/notes/a-vscode-extension-to-understand-function-parameters/)
+- [An SVG filter to pixelate images (#snippet)](https://www.stefanjudis.com/snippets/an-svg-filter-to-pixelate-images/)
 - [Web Weekly #28 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-28/)
 - [How to access the your sites' Google cache from the URL bar (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-access-the-your-sites-google-cache-from-the-url-bar/)
 - [A natural shadow with SVG filters (#snippet)](https://www.stefanjudis.com/snippets/a-natural-shadow-with-svg-filters/)
-- [Web Weekly #27 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-27/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
