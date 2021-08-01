@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to extract text from an image via the CLI (#snippet)](https://www.stefanjudis.com/snippets/how-to-extract-text-from-an-image-via-the-cli/)
 - [Web Weekly #29 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-29/)
 - [How to detect media query support (#snippet)](https://www.stefanjudis.com/snippets/how-to-detect-media-query-support/)
 - [Automatic hyphenation depends on the defined document language (#tilPost)](https://www.stefanjudis.com/today-i-learned/automatic-hyphenation-depends-on-the-defined-document-language/)
 - [An SVG filter to pixelate images (#snippet)](https://www.stefanjudis.com/snippets/an-svg-filter-to-pixelate-images/)
-- [A VSCode extension to understand function parameters (#note)](https://www.stefanjudis.com/notes/a-vscode-extension-to-understand-function-parameters/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
