@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #31 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-31/)
 - [Can we have custom media queries, please? (#note)](https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/)
 - [Web Weekly #30 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-30/)
 - [User preference feature queries have a boolean context (#tilPost)](https://www.stefanjudis.com/today-i-learned/user-preference-feature-queries-have-a-boolean-context/)
 - [How to extract text from an image via the CLI (#snippet)](https://www.stefanjudis.com/snippets/how-to-extract-text-from-an-image-via-the-cli/)
-- [Web Weekly #29 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-29/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
