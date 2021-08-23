@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #33 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-33/)
 - [A better way to navigate/search your CLI history – McFly (#note)](https://www.stefanjudis.com/notes/a-better-way-to-navigate-search-your-cli-history-mcfly/)
 - [Web Weekly #32 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-32/)
 - [Web Weekly #31 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-31/)
 - [Can we have custom media queries, please? (#note)](https://www.stefanjudis.com/notes/can-we-have-custom-media-queries-please/)
-- [Web Weekly #30 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-30/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
