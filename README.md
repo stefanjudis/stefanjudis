@@ -7,7 +7,7 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome/Edge provide a highly visible focus outlines (#tilPost)](https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/)
+- [Chrome and Edge provide a highly visible focus outlines (#tilPost)](https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/)
 - [How to focus an already open browser tab (Chromium and macOS) (#note)](https://www.stefanjudis.com/notes/how-to-focus-an-already-open-browser-tab-chromium-and-macos/)
 - [Web Weekly #34 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-34/)
 - [How to apply directory dependent git configuration using conditional imports (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-apply-directory-dependent-git-configuration-using-conditional-imports/)
