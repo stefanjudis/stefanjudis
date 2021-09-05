@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Chrome/Edge provide a highly visible focus outlines (#tilPost)](https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/)
 - [How to focus an already open browser tab (Chromium and macOS) (#note)](https://www.stefanjudis.com/notes/how-to-focus-an-already-open-browser-tab-chromium-and-macos/)
 - [Web Weekly #34 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-34/)
 - [How to apply directory dependent git configuration using conditional imports (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-apply-directory-dependent-git-configuration-using-conditional-imports/)
 - [Promises-based timer functions are supported in Node.js 16 (#snippet)](https://www.stefanjudis.com/snippets/promises-based-timer-functions-are-supported-in-node-js-16/)
-- [Safari only supports image formats macOS/iOS support, and that's good for some users (#note)](https://www.stefanjudis.com/notes/apples-safari-only-supports-image-formats-the-os-supports-and-that-might-be/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
