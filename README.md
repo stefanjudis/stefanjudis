@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to configure VS Code Bracket Colors (#snippet)](https://www.stefanjudis.com/snippets/how-to-configure-vs-code-bracket-colors/)
 - [Web Weekly #35 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-35/)
 - [Chrome and Edge provide a highly visible focus outlines (#tilPost)](https://www.stefanjudis.com/today-i-learned/chrome-edge-provide-a-highly-visible-focus-outlines/)
 - [How to focus an already open browser tab (Chromium and macOS) (#note)](https://www.stefanjudis.com/notes/how-to-focus-an-already-open-browser-tab-chromium-and-macos/)
 - [Web Weekly #34 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-34/)
-- [How to apply directory dependent git configuration using conditional imports (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-apply-directory-dependent-git-configuration-using-conditional-imports/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
