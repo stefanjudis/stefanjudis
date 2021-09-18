@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to enable beautiful cursive fonts in your VS Code theme (#blogPost)](https://www.stefanjudis.com/blog/how-to-enable-beautiful-cursive-fonts-in-your-vs-code-theme/)
 - [How to enable semantic highlighting in VS Code (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-enable-semantic-highlighting-in-vs-code/)
 - [Web Weekly #36 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-36/)
 - [How to discard tabs to save resources in Chrome, Edge and Firefox (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-discard-tabs-to-save-resources-in-chrome-edge-and-firefox/)
 - [How to configure VS Code Bracket Colors (#snippet)](https://www.stefanjudis.com/snippets/how-to-configure-vs-code-bracket-colors/)
-- [Web Weekly #35 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-35/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
