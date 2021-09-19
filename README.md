@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #37 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-37/)
 - [rgba() and hsla() are legacy functions and aliases in modern browsers (#tilPost)](https://www.stefanjudis.com/today-i-learned/rgba-and-hsla-are-legacy-and-aliases-in-modern-browsers/)
 - [How to enable beautiful cursive fonts in your VS Code theme (#blogPost)](https://www.stefanjudis.com/blog/how-to-enable-beautiful-cursive-fonts-in-your-vs-code-theme/)
 - [How to enable semantic highlighting in VS Code (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-enable-semantic-highlighting-in-vs-code/)
 - [Web Weekly #36 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-36/)
-- [How to discard tabs to save resources in Chrome, Edge and Firefox (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-discard-tabs-to-save-resources-in-chrome-edge-and-firefox/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
