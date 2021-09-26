@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A UI for managing your Node.js dependencies in VS Code (#note)](https://www.stefanjudis.com/notes/a-ui-for-managing-your-node-js-dependencies-in-vs-code/)
+- [How to use a serverless function as image/caching proxy (#snippet)](https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/)
 - [Web Weekly #37 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-37/)
 - [rgba() and hsla() are legacy functions and aliases in modern browsers (#tilPost)](https://www.stefanjudis.com/today-i-learned/rgba-and-hsla-are-legacy-and-aliases-in-modern-browsers/)
 - [How to enable beautiful cursive fonts in your VS Code theme (#blogPost)](https://www.stefanjudis.com/blog/how-to-enable-beautiful-cursive-fonts-in-your-vs-code-theme/)
-- [How to enable semantic highlighting in VS Code (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-enable-semantic-highlighting-in-vs-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
