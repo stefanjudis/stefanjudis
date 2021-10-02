@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Three exciting Chrome DevTools experiments (#blogPost)](https://www.stefanjudis.com/blog/three-exciting-chrome-devtools-experiments/)
 - [CodeSwing – a VS Code extension for quick prototyping (#note)](https://www.stefanjudis.com/notes/codeswing-a-vs-code-extension-for-quick-prototyping/)
 - [How to color the browser scrollbar across browsers (#snippet)](https://www.stefanjudis.com/snippets/how-to-color-the-browser-scrollbar-across-browsers/)
 - [Web Weekly #38 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-38/)
 - [A UI for managing your Node.js dependencies in VS Code (#note)](https://www.stefanjudis.com/notes/a-ui-for-managing-your-node-js-dependencies-in-vs-code/)
-- [How to use a serverless function as image/caching proxy (#snippet)](https://www.stefanjudis.com/snippets/how-to-use-a-serverless-function-as-image-caching-proxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
