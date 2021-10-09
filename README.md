@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to define progressive web app (PWA) screenshots and shortcuts (#note)](https://www.stefanjudis.com/notes/how-to-define-progressive-web-app-pwa-screenshots-and-shortcuts/)
 - [Web Weekly #39 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-39/)
 - [Three exciting Chrome DevTools experiments (#blogPost)](https://www.stefanjudis.com/blog/three-exciting-chrome-devtools-experiments/)
 - [CodeSwing – a VS Code extension for quick prototyping (#note)](https://www.stefanjudis.com/notes/codeswing-a-vs-code-extension-for-quick-prototyping/)
 - [How to color the browser scrollbar across browsers (#snippet)](https://www.stefanjudis.com/snippets/how-to-color-the-browser-scrollbar-across-browsers/)
-- [Web Weekly #38 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-38/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
