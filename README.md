@@ -10,7 +10,7 @@
 - [Web Weekly #40 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-40/)
 - [How to define progressive web app (PWA) screenshots and shortcuts (#note)](https://www.stefanjudis.com/notes/how-to-define-progressive-web-app-pwa-screenshots-and-shortcuts/)
 - [Web Weekly #39 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-39/)
-- [Three exciting Chrome DevTools experiments (#blogPost)](https://www.stefanjudis.com/blog/three-exciting-chrome-devtools-experiments/)
+- [Three exciting Chromium DevTools experiments (#blogPost)](https://www.stefanjudis.com/blog/three-exciting-chromium-devtools-experiments/)
 - [CodeSwing – a VS Code extension for quick prototyping (#note)](https://www.stefanjudis.com/notes/codeswing-a-vs-code-extension-for-quick-prototyping/)
 <!-- BLOG-POST-LIST:END -->
 
