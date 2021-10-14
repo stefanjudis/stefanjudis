@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Conditional border-radius and three future CSS features (#blogPost)](https://www.stefanjudis.com/blog/conditional-border-radius-and-three-future-css-features/)
 - [How to disable Chrome's URL bar autosuggestions (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-disable-chromes-url-autosuggestions/)
 - [ARIA in HTML authoring rules (#note)](https://www.stefanjudis.com/notes/aria-in-html-authoring-rules/)
 - [Web Weekly #40 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-40/)
 - [How to define progressive web app (PWA) screenshots and shortcuts (#note)](https://www.stefanjudis.com/notes/how-to-define-progressive-web-app-pwa-screenshots-and-shortcuts/)
-- [Web Weekly #39 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-39/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
