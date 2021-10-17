@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Cross-origin module scripts require CORS response headers (#tilPost)](https://www.stefanjudis.com/today-i-learned/cross-origin-module-scripts-require-cors-response-headers/)
 - [How to control the used Gmail account when using slides.new, docs.new, etc. (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-control-the-used-gmail-account-when-using-slides-new-docs-new-etc/)
 - [Conditional border-radius and three future CSS features (#blogPost)](https://www.stefanjudis.com/blog/conditional-border-radius-and-three-future-css-features/)
 - [How to disable Chrome's URL bar autosuggestions (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-disable-chromes-url-autosuggestions/)
 - [ARIA in HTML authoring rules (#note)](https://www.stefanjudis.com/notes/aria-in-html-authoring-rules/)
-- [Web Weekly #40 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-40/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
