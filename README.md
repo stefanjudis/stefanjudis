@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - ["npm root" locates the global node modules directory (#tilPost)](https://www.stefanjudis.com/today-i-learned/npm-root-locates-the-global-node-modules-directory/)
+- [Every emoji has a very particular meaning, or doesn't it? (#note)](https://www.stefanjudis.com/notes/every-emoji-has-a-very-particular-meaning-or-doesnt-it/)
 - [Web Weekly #41 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-41/)
 - [Cross-origin module scripts require CORS response headers (#tilPost)](https://www.stefanjudis.com/today-i-learned/cross-origin-module-scripts-require-cors-response-headers/)
 - [How to control the used Gmail account when using slides.new, docs.new, etc. (#tilPost)](https://www.stefanjudis.com/today-i-learned/how-to-control-the-used-gmail-account-when-using-slides-new-docs-new-etc/)
-- [Conditional border-radius and three future CSS features (#blogPost)](https://www.stefanjudis.com/blog/conditional-border-radius-and-three-future-css-features/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
