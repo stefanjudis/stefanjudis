@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to correctly load SVG favicons (#snippet)](https://www.stefanjudis.com/snippets/how-to-correctly-load-svg-favicons/)
 - [Web Weekly #43 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-43/)
 - [How to load Medium posts without all the "Medium stuff" (#note)](https://www.stefanjudis.com/notes/how-to-load-medium-posts-without-all-the-medium-stuff/)
 - [Web Weekly #42 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-42/)
 - ["npm root" locates the global node modules directory (#tilPost)](https://www.stefanjudis.com/today-i-learned/npm-root-locates-the-global-node-modules-directory/)
-- [Every emoji has a very particular meaning, or doesn't it? (#note)](https://www.stefanjudis.com/notes/every-emoji-has-a-very-particular-meaning-or-doesnt-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
