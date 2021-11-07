@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #44 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-44/)
 - [How to correctly load SVG favicons (#snippet)](https://www.stefanjudis.com/snippets/how-to-correctly-load-svg-favicons/)
 - [Web Weekly #43 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-43/)
 - [How to load Medium posts without all the "Medium stuff" (#note)](https://www.stefanjudis.com/notes/how-to-load-medium-posts-without-all-the-medium-stuff/)
 - [Web Weekly #42 (#blogPost)](https://www.stefanjudis.com/blog/web-weekly-42/)
-- ["npm root" locates the global node modules directory (#tilPost)](https://www.stefanjudis.com/today-i-learned/npm-root-locates-the-global-node-modules-directory/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
