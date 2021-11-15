@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #45 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-45/)
 - [Web Weekly #44 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-44/)
 - [How to correctly load SVG favicons &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-correctly-load-svg-favicons/)
 - [Web Weekly #43 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-43/)
 - [How to load Medium posts without all the &quot;Medium stuff&quot; &lpar;#note&rpar;](https://www.stefanjudis.com/notes/how-to-load-medium-posts-without-all-the-medium-stuff/)
-- [Web Weekly #42 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-42/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
