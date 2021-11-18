@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to detect Emojis in JavaScript strings &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-detect-emojis-in-javascript-strings/)
+- [A directory-dependent and interactive command history &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/a-directory-dependent-and-interactive-command-history/)
 - [Web Weekly #45 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-45/)
 - [Web Weekly #44 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-44/)
 - [How to correctly load SVG favicons &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-correctly-load-svg-favicons/)
-- [Web Weekly #43 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-43/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
