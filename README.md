@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [New in CSS: relative colors &lpar;#note&rpar;](https://www.stefanjudis.com/notes/new-in-css-relative-colors/)
 - [Web Weekly #46 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-46/)
 - [New in JavaScript: Array.findLast and Array.findLastIndex &lpar;#note&rpar;](https://www.stefanjudis.com/notes/new-in-javascript-array-findlast-and-array-findlastindex/)
 - [How to detect Emojis in JavaScript strings &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-detect-emojis-in-javascript-strings/)
 - [A directory-dependent and interactive command history &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/a-directory-dependent-and-interactive-command-history/)
-- [Web Weekly #45 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-45/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
