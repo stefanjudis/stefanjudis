@@ -8,10 +8,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The surprising behavior of &quot;important CSS custom properties&quot; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-surprising-behavior-of-important-css-custom-properties/)
+- [How to define dark/light mode images in GitHub Markdown &lpar;#note&rpar;](https://www.stefanjudis.com/notes/how-to-define-dark-light-mode-images-in-github-markdown/)
 - [Web Weekly #47 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-47/)
 - [New in CSS: relative colors &lpar;#note&rpar;](https://www.stefanjudis.com/notes/new-in-css-relative-colors/)
 - [Web Weekly #46 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-46/)
-- [New in JavaScript: Array.findLast and Array.findLastIndex &lpar;#note&rpar;](https://www.stefanjudis.com/notes/new-in-javascript-array-findlast-and-array-findlastindex/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
