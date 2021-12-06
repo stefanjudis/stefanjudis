@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #48 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-48/)
 - [Mozilla&#39;s positions on all the new web specifications &lpar;#note&rpar;](https://www.stefanjudis.com/notes/mozillas-positions-on-all-the-new-web-specifications/)
 - [Highlights of the Web Almanac 2021 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/highlights-from-the-web-almanac-2021/)
 - [Three Markdown tricks I just learned &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/three-markdown-tricks-i-just-learned/)
 - [The surprising behavior of &quot;important CSS custom properties&quot; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-surprising-behavior-of-important-css-custom-properties/)
-- [How to define dark/light mode images in GitHub Markdown &lpar;#note&rpar;](https://www.stefanjudis.com/notes/how-to-define-dark-light-mode-images-in-github-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
