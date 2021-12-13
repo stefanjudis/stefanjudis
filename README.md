@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #49 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-49/)
 - [A browser extension to make Wikipedia look modern &lpar;#note&rpar;](https://www.stefanjudis.com/notes/a-browser-extension-to-make-wikipedia-look-modern/)
 - [What are idempotent scripts? &lpar;#note&rpar;](https://www.stefanjudis.com/notes/what-are-idempotent-scripts/)
 - [Web Weekly #48 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-48/)
 - [Mozilla&#39;s positions on all the new web specifications &lpar;#note&rpar;](https://www.stefanjudis.com/notes/mozillas-positions-on-all-the-new-web-specifications/)
-- [Highlights of the Web Almanac 2021 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/highlights-from-the-web-almanac-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
