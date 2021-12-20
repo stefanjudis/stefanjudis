@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to define your relationship to sites you link to &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-define-your-relationship-to-sites-you-link-to/)
 - [Web Weekly #50 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-50/)
 - [git supports global gitignore files &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/git-supports-global-gitignore-files/)
 - [&quot;await.ops&quot; – less typing, more promise-handling &lpar;#note&rpar;](https://www.stefanjudis.com/notes/await-ops-less-typing-more-promise-handling/)
 - [Web Weekly #49 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-49/)
-- [A browser extension to make Wikipedia look modern &lpar;#note&rpar;](https://www.stefanjudis.com/notes/a-browser-extension-to-make-wikipedia-look-modern/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
