@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [hwb&lpar;&rpar; – a color notation for humans? &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/hwb-a-color-notation-for-humans/)
 - [Why accessibility design should be a thing &lpar;#note&rpar;](https://www.stefanjudis.com/notes/why-accessibility-design-should-be-a-thing/)
 - [How to define your relationship to sites you link to &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-define-your-relationship-to-sites-you-link-to/)
 - [Web Weekly #50 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-50/)
 - [git supports global gitignore files &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/git-supports-global-gitignore-files/)
-- [&quot;await.ops&quot; – less typing, more promise-handling &lpar;#note&rpar;](https://www.stefanjudis.com/notes/await-ops-less-typing-more-promise-handling/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
