@@ -7,8 +7,8 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Code golfing at it&#39;s best &lpar;#note&rpar;](https://www.stefanjudis.com/notes/code-golfing-at-its-best/)
-- [How to hide Microsoft Edge&#39;s passwort reveal button &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-hide-microsoft-edges-passwort-reveal-button/)
+- [Code golfing at its best &lpar;#note&rpar;](https://www.stefanjudis.com/notes/code-golfing-at-its-best/)
+- [How to hide Microsoft Edge&#39;s password reveal button &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-hide-microsoft-edges-password-reveal-button/)
 - [hwb&lpar;&rpar; – a color notation for humans? &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/hwb-a-color-notation-for-humans/)
 - [Why accessibility design should be a thing &lpar;#note&rpar;](https://www.stefanjudis.com/notes/why-accessibility-design-should-be-a-thing/)
 - [How to define your relationship to sites you link to &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-define-your-relationship-to-sites-you-link-to/)
