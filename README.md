@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [rcmd – an alternative to &quot;active app tabbing&quot; &lpar;#note&rpar;](https://www.stefanjudis.com/notes/rcmd-an-alternative-to-active-app-tabbing/)
 - [Different background animations on mouseenter and leave &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/different-background-animations-on-mouseenter-and-leave/)
 - [TLDraw – keyboard-first annotations on your screen &lpar;#note&rpar;](https://www.stefanjudis.com/notes/tldraw-keyboard-first-annotations-on-your-screen/)
 - [Filter and map Array values with a flatMap one-liner &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/filter-and-map-array-values-with-a-flatmap-one-liner/)
 - [Web Weekly #51 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-51/)
-- [Recursive directory creation with shell brace expansion &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/recursive-directory-creation-with-shell-brace-expansion/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
