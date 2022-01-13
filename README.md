@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [An extension to boost your VS Code JavaScript productivity &lpar;#note&rpar;](https://www.stefanjudis.com/notes/an-extension-to-boost-your-vs-code-javascript-productivity/)
 - [Web Weekly #52 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-52/)
 - [New on the web: programmatically open a native date picker &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/new-on-the-web-programmatically-open-a-native-date-picker/)
 - [rcmd – an alternative to &quot;active app tabbing&quot; &lpar;#note&rpar;](https://www.stefanjudis.com/notes/rcmd-an-alternative-to-active-app-tabbing/)
 - [Different background animations on mouseenter and leave &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/different-background-animations-on-mouseenter-and-leave/)
-- [TLDraw – keyboard-first annotations on your screen &lpar;#note&rpar;](https://www.stefanjudis.com/notes/tldraw-keyboard-first-annotations-on-your-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
