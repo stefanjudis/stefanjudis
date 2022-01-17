@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #53 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-53/)
 - [JavaScript numeric separators are cross-browser supported &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/javascript-numeric-separators-are-cross-browser-supported/)
 - [How to override your dependency&#39;s dependencies &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-override-your-dependencys-dependencies/)
 - [An extension to boost your VS Code JavaScript productivity &lpar;#note&rpar;](https://www.stefanjudis.com/notes/an-extension-to-boost-your-vs-code-javascript-productivity/)
 - [Web Weekly #52 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-52/)
-- [New on the web: programmatically open a native date picker &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/new-on-the-web-programmatically-open-a-native-date-picker/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
