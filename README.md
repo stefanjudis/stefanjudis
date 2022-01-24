@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #54 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-54/)
 - [How to preserve separators in the result of String.prototype.split&lpar;&rpar; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-preserve-separators-in-the-result-of-string-prototype-split/)
 - [Multiline mode in JavaScript regular expressions &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/multiline-mode-in-javascript-regular-expressions/)
 - [Web Weekly #53 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-53/)
 - [JavaScript numeric separators are cross-browser supported &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/javascript-numeric-separators-are-cross-browser-supported/)
-- [How to override your dependency&#39;s dependencies &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-override-your-dependencys-dependencies/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
