@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Emojis and cultural differences &lpar;#note&rpar;](https://www.stefanjudis.com/notes/emojis-and-cultural-differences/)
 - [Coding in the cloud – CodeSwing on github.dev &lpar;#note&rpar;](https://www.stefanjudis.com/notes/coding-in-the-cloud-codeswing-on-github-dev/)
 - [Web Weekly #54 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-54/)
 - [How to preserve separators in the result of String.prototype.split&lpar;&rpar; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-preserve-separators-in-the-result-of-string-prototype-split/)
 - [Multiline mode in JavaScript regular expressions &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/multiline-mode-in-javascript-regular-expressions/)
-- [Web Weekly #53 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-53/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
