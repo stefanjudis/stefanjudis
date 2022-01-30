@@ -2,7 +2,7 @@
 
 - ✅ DevRel at [Contentful](https://www.contentful.com)
 - ✅ In love with web accessibility, web performance and new technologies
-- ✅ Maintainer of [tiny-helpers.dev](https://tiny-helpers.dev) and [the RandomMDN Twitter bot](https://twitter.com/randomMDN)
+- ✅ Maintainer of [tiny-helpers.dev](https://tiny-helpers.dev), [tiny-teachers.dev](https://tiny-teachers.dev/) and [the RandomMDN Twitter bot](https://twitter.com/randomMDN)
 - ✅ Following [#learnInPublic](https://www.stefanjudis.com/today-i-learned/)
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
