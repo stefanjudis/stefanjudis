@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [You can&#39;t override !important user agent CSS declarations &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/you-cant-override-important-user-agent-css-declarations/)
 - [Web Weekly #55 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-55/)
 - [Emojis and cultural differences &lpar;#note&rpar;](https://www.stefanjudis.com/notes/emojis-and-cultural-differences/)
 - [Coding in the cloud – CodeSwing on github.dev &lpar;#note&rpar;](https://www.stefanjudis.com/notes/coding-in-the-cloud-codeswing-on-github-dev/)
 - [Web Weekly #54 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-54/)
-- [How to preserve separators in the result of String.prototype.split&lpar;&rpar; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-preserve-separators-in-the-result-of-string-prototype-split/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
