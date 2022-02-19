@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Array.prototype.reduce&#39;s initial value is optional &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-array-prototype-reduces-initial-value-is-optional/)
 - [Web Weekly #57 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-57/)
 - [Google displays table of contents and anchor links &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/google-displays-table-of-contents-and-anchor-links/)
 - [New in JavaScript: reportError – a method to report to global event handlers &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/reporterror-a-method-to-report-to-global-event-handlers/)
 - [Web Weekly #56 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-56/)
-- [You can&#39;t override !important user agent CSS declarations &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/you-cant-override-important-user-agent-css-declarations/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
