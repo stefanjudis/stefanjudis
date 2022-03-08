@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A look at the dialog element&#39;s super powers &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/)
 - [Readable JavaScript conditions &lpar;#note&rpar;](https://www.stefanjudis.com/notes/readable-javascript-conditions/)
 - [Web Weekly #58 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-58/)
 - [Array.prototype.reduce&#39;s initial value is optional &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-array-prototype-reduces-initial-value-is-optional/)
 - [Web Weekly #57 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-57/)
-- [Google displays table of contents and anchor links &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/google-displays-table-of-contents-and-anchor-links/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
