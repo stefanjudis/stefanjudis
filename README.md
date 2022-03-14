@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #59 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-59/)
 - [New in VS Code: Surround code with Snippets &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/new-in-vs-code-surround-code-with-snippets/)
 - [VS Code supports JSDoc-powered type checking &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/vs-code-supports-jsdoc-powered-type-checking/)
 - [A look at the dialog element&#39;s super powers &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/)
 - [Readable JavaScript conditions &lpar;#note&rpar;](https://www.stefanjudis.com/notes/readable-javascript-conditions/)
-- [Web Weekly #58 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-58/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
