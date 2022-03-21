@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #60 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-60/)
 - [How to align the text of the last paragraph line &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/)
 - [Packages with high download numbers that nobody wanted to install &lpar;#note&rpar;](https://www.stefanjudis.com/notes/packages-with-high-download-numbers-that-nobody-wanted-to-install/)
 - [Web Weekly #59 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-59/)
 - [New in VS Code: Surround code with Snippets &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/new-in-vs-code-surround-code-with-snippets/)
-- [VS Code supports JSDoc-powered type checking &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/vs-code-supports-jsdoc-powered-type-checking/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
