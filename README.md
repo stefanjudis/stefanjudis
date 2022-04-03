@@ -7,11 +7,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [APIs to generate random user avatars &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/apis-to-generate-random-user-avatars/)
 - [How to match HTML elements with an indeterminate state &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-match-html-elements-with-an-indeterminate-state/)
 - [Web Weekly #60 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-60/)
 - [How to align the text of the last paragraph line &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/)
 - [Packages with high download numbers that nobody wanted to install &lpar;#note&rpar;](https://www.stefanjudis.com/notes/packages-with-high-download-numbers-that-nobody-wanted-to-install/)
-- [Web Weekly #59 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-59/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
