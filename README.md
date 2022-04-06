@@ -1,6 +1,5 @@
 <img alt="Heyo, I'm Stefan. I write and speak about web technology." src="https://raw.githubusercontent.com/stefanjudis/stefanjudis/main/screenshot.png">
 
-- ✅ DevRel at [Contentful](https://www.contentful.com)
 - ✅ In love with web accessibility, web performance and new technologies
 - ✅ Maintainer of [tiny-helpers.dev](https://tiny-helpers.dev), [tiny-teachers.dev](https://tiny-teachers.dev/) and [the RandomMDN Twitter bot](https://twitter.com/randomMDN)
 - ✅ Following [#learnInPublic](https://www.stefanjudis.com/today-i-learned/)
