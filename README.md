@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter started to mess with embedded content on your site &lpar;#note&rpar;](https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/)
 - [Web Weekly #61 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-61/)
 - [APIs to generate random user avatars &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/apis-to-generate-random-user-avatars/)
 - [How to match HTML elements with an indeterminate state &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-match-html-elements-with-an-indeterminate-state/)
 - [Web Weekly #60 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-60/)
-- [How to align the text of the last paragraph line &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-align-the-text-of-the-last-paragraph-line/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
