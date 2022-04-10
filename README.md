@@ -6,7 +6,7 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Docs now supports Markdown syntax &lpar;#note&rpar;](https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/)
+- [Google Docs supports Markdown syntax &lpar;#note&rpar;](https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/)
 - [The &quot;inert&quot; attribute is finally coming to the web &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/)
 - [Twitter started to mess with embedded content on your site &lpar;#note&rpar;](https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/)
 - [Web Weekly #61 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-61/)
