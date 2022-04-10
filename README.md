@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Docs now supports Markdown syntax &lpar;#note&rpar;](https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/)
 - [The &quot;inert&quot; attribute is finally coming to the web &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/)
 - [Twitter started to mess with embedded content on your site &lpar;#note&rpar;](https://www.stefanjudis.com/notes/twitter-started-to-mess-with-embedded-content-on-your-site/)
 - [Web Weekly #61 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-61/)
 - [APIs to generate random user avatars &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/apis-to-generate-random-user-avatars/)
-- [How to match HTML elements with an indeterminate state &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-match-html-elements-with-an-indeterminate-state/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
