@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Keyboard button clicks with Space and Enter behave differently &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/keyboard-button-clicks-with-space-and-enter-behave-differently/)
 - [Web Weekly #63 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-63/)
 - [How to measure network quality &lpar;download/upload&rpar; on macOS  &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-measure-network-quality-download-upload-on-macos/)
 - [Web Weekly #62 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-62/)
 - [Google Docs supports Markdown syntax &lpar;#note&rpar;](https://www.stefanjudis.com/notes/google-docs-now-supports-markdown-syntax/)
-- [The &quot;inert&quot; attribute is finally coming to the web &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/the-inert-attribute-is-finally-coming-to-the-web/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
