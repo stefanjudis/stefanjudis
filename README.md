@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #65 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-65/)
 - [A clipboard magic trick - how to use different MIME types with the Clipboard API &lpar;#note&rpar;](https://www.stefanjudis.com/notes/a-clipboard-magic-trick-how-to-use-different-mime-types-with-the-clipboard/)
 - [Web Weekly #64 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-64/)
 - [Keyboard button clicks with Space and Enter behave differently &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/keyboard-button-clicks-with-space-and-enter-behave-differently/)
 - [Global fetch landed in Node 18 &lpar;#note&rpar;](https://www.stefanjudis.com/notes/global-fetch-landed-in-node-18/)
-- [Web Weekly #63 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-63/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
