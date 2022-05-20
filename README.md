@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Should browsers offer site-specific user preference controls? &lpar;yes!&rpar; &lpar;#note&rpar;](https://www.stefanjudis.com/notes/should-browsers-offer-per-site-user-preferences/)
 - [Table cells support a &quot;headers&quot; HTML attribute &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/table-cells-support-a-headers-html-attribute/)
 - [How to enforce pinch-to-zoom on Firefox/Chrome on Android &lpar;#note&rpar;](https://www.stefanjudis.com/notes/how-to-enforce-pinch-to-zoom-on-firefox-chrome-on-android/)
 - [Web Weekly #65 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-65/)
 - [A clipboard magic trick - how to use different MIME types with the Clipboard API &lpar;#note&rpar;](https://www.stefanjudis.com/notes/a-clipboard-magic-trick-how-to-use-different-mime-types-with-the-clipboard/)
-- [Web Weekly #64 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-64/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
