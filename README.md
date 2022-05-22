@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #66 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-66/)
 - [Should browsers offer site-specific user preference controls? &lpar;yes!&rpar; &lpar;#note&rpar;](https://www.stefanjudis.com/notes/should-browsers-offer-per-site-user-preferences/)
 - [How to navigate to the git root directory &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-navigate-to-the-git-root-directory/)
 - [Table cells support a &quot;headers&quot; HTML attribute &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/table-cells-support-a-headers-html-attribute/)
 - [How to enforce pinch-to-zoom on Firefox/Chrome on Android &lpar;#note&rpar;](https://www.stefanjudis.com/notes/how-to-enforce-pinch-to-zoom-on-firefox-chrome-on-android/)
-- [Web Weekly #65 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-65/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
