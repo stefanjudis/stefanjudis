@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #69 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-69/)
 - [Web Weekly #68 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-68/)
 - [&quot;fetch&quot; supports a &quot;keepAlive&quot; option to make it outlive page navigations &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/fetch-supports-a-keepalive-option-to-make-it-outlive-page-navigations/)
 - [Firefox DevTools provide a multiline JavaScript console &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/firefox-devtools-provide-a-multiline-javascript-console/)
 - [Web Weekly #67 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-67/)
-- [How specify the starting number of an ordered HTML list &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-specify-the-starting-number-of-an-ordered-html-list/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
