@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #71 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-71/)
 - [Suffix aliases &lpar;-s&rpar; in Zsh &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/suffix-aliases-in-zsh/)
 - [Web Weekly #70 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-70/)
 - [How to create an API wrapper using a JavaScript proxy &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-create-an-api-wrapper-using-a-javascript-proxy/)
 - [Web Weekly #69 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-69/)
-- [Web Weekly #68 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-68/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
