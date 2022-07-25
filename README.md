@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [em and strong are not announced by screen readers &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/em-and-strong-are-not-be-announced-by-screen-readers/)
 - [Web Weekly #72 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-72/)
 - [How to select the previous sibling of an element &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-select-the-previous-sibling/)
 - [Web Weekly #71 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-71/)
 - [Suffix aliases &lpar;-s&rpar; in Zsh &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/suffix-aliases-in-zsh/)
-- [Web Weekly #70 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-70/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
