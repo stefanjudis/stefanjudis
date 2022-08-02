@@ -7,10 +7,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Web Weekly #73 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-73/)
+- [How to create a module-based Node.js executable &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-create-a-module-based-node-js-executable/)
 - [Import maps will improve cache busting &lpar;#note&rpar;](https://www.stefanjudis.com/notes/import-maps-will-improve-cache-busting/)
 - [The CSS quantity query with :nth-last-child&lpar;&rpar; &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/the-css-quantity-query-with-nth-last-child/)
 - [em and strong are not announced by screen readers &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/em-and-strong-are-not-be-announced-by-screen-readers/)
-- [Web Weekly #72 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-72/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
