@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to exclude commits from git blame &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/)
 - [Web Weekly #74 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-74/)
 - [New in VS Code – sticky function signatures &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/new-in-vs-code-sticky-function-signatures/)
 - [Web Weekly #73 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-73/)
 - [How to create a module-based Node.js executable &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-create-a-module-based-node-js-executable/)
-- [Import maps will improve cache busting &lpar;#note&rpar;](https://www.stefanjudis.com/notes/import-maps-will-improve-cache-busting/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
