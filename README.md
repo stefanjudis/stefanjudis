@@ -6,8 +6,8 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to exclude commits from git blame &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/)
 - [How to force push git branches without the --force flag &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-force-push-git-branches-without-the-force-flag/)
+- [How to exclude commits from git blame &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/)
 - [Web Weekly #74 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-74/)
 - [New in VS Code – sticky function signatures &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/new-in-vs-code-sticky-function-signatures/)
 - [Web Weekly #73 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-73/)
