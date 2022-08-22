@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #76 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-76/)
 - [Web Weekly #75 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-75/)
 - [How to force push git branches without the --force flag &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-force-push-git-branches-without-the-force-flag/)
 - [How to exclude commits from git blame &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/)
 - [Web Weekly #74 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-74/)
-- [New in VS Code – Sticky Scroll &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/new-in-vs-code-sticky-scroll/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
