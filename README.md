@@ -8,8 +8,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Web Weekly #76 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-76/)
 - [Web Weekly #75 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-75/)
-- [How to force push git branches without the --force flag &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-force-push-git-branches-without-the-force-flag/)
 - [How to exclude commits from git blame &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/)
+- [How to force push git branches without the --force flag &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-force-push-git-branches-without-the-force-flag/)
 - [Web Weekly #74 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-74/)
 <!-- BLOG-POST-LIST:END -->
 
