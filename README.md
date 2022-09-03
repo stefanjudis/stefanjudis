@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Disabled JavaScript turns of native lazy loading &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-of-native-lazy-loading/)
 - [Web Weekly #77 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-77/)
 - [Web Weekly #76 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-76/)
 - [Web Weekly #75 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-75/)
 - [How to exclude commits from git blame &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-exclude-commits-from-git-blame/)
-- [How to force push git branches without the --force flag &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-force-push-git-branches-without-the-force-flag/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
