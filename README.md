@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to detect if a font is supported &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-detect-if-a-font-is-supported/)
 - [All browsers adopted :focus-visible in their UA stylesheets &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/all-browsers-adopted-focus-visible-in-their-ua-stylesheets/)
 - [Web Weekly #79 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-79/)
 - [Web Weekly #78 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-78/)
 - [Disabled JavaScript turns off native lazy loading &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/disabled-javascript-turns-off-native-lazy-loading/)
-- [Web Weekly #77 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-77/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
