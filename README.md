@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #81 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-81/)
 - [How to find all render-blocking resources with JavaScript &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript/)
 - [Web Almanac Highlights 2022 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-almanac-highlights-2022/)
 - [An app to open your current finder directory in VS Code &lpar;#note&rpar;](https://www.stefanjudis.com/notes/an-app-to-open-your-current-finder-directory-in-vs-code/)
 - [Web Weekly #80 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-80/)
-- [Why custom properties don&#39;t work with the url&lpar;&rpar; CSS function &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/custom-properties-dont-work-with-the-url-css-function/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
