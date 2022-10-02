@@ -15,7 +15,7 @@
 
 ### Stay up to date
 
-- [Subscribe to my newsletter](https://www.stefanjudis.com/newsletter/)
+- [Subscribe to my newsletter `Web Weekly`](https://webweekly.email/)
 - [Follow RSS](https://www.stefanjudis.com/feeds/)
 - [Subscribe on YouTube](https://youtube.com/c/stefanjudis)
 - [Follow on Twitch](https://www.twitch.tv/stefanjudis)
