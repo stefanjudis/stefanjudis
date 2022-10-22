@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A centered CSS grid with full-width components &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/a-centered-css-grid-with-full-width-components/)
 - [Web Weekly #82 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-82/)
 - [Web Weekly #81 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-81/)
 - [How to find all render-blocking resources with JavaScript &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-find-all-render-blocking-resources-with-javascript/)
 - [Web Almanac Highlights 2022 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-almanac-highlights-2022/)
-- [An app to open your current finder directory in VS Code &lpar;#note&rpar;](https://www.stefanjudis.com/notes/an-app-to-open-your-current-finder-directory-in-vs-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
