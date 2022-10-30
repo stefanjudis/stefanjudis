@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #84 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-84/)
 - [A JavaScript-free custom element implementation &lpar;#note&rpar;](https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/)
 - [Web Weekly #83 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-83/)
 - [A centered CSS grid with full-width components &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/a-centered-css-grid-with-full-width-components/)
 - [Web Weekly #82 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-82/)
-- [Web Weekly #81 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-81/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
