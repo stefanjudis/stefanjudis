@@ -15,6 +15,7 @@
 
 ### Stay up to date
 
+- Fediverse: `@stefan@front-end.social`
 - [Subscribe to my newsletter `Web Weekly`](https://webweekly.email/)
 - [Follow RSS](https://www.stefanjudis.com/feeds/)
 - [Subscribe on YouTube](https://youtube.com/c/stefanjudis)
