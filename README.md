@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS clip-path can go outside of an element &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/css-clip-path-can-go-outside-of-an-element/)
 - [How to flip characters and words in your terminal &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/)
 - [A native shell alternative to the trash-cli &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/a-native-shell-alternative-to-the-trash-cli/)
 - [Web Weekly #84 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-84/)
 - [A JavaScript-free custom element implementation &lpar;#note&rpar;](https://www.stefanjudis.com/notes/a-javascript-free-custom-element-implementation/)
-- [Web Weekly #83 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-83/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
