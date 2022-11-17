@@ -6,7 +6,7 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Top-level promise handling in Node.js &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/top-level-promise-handling-in-node-js/)
+- [Top-level promise handling in Node.js ESM modules &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/top-level-promise-handling-in-node-js/)
 - [The missing bridge in web development – JSON forms &lpar;#note&rpar;](https://www.stefanjudis.com/notes/the-missing-bridge-in-web-development-json-forms/)
 - [Web Weekly #85 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-85/)
 - [CSS clip-path can go outside of an element &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/css-clip-path-can-go-outside-of-an-element/)
