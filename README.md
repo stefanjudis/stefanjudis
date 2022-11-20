@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #86 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-86/)
 - [Top-level promise handling in Node.js ES modules &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/top-level-promise-handling-in-node-js/)
 - [The missing bridge in web development – JSON forms &lpar;#note&rpar;](https://www.stefanjudis.com/notes/the-missing-bridge-in-web-development-json-forms/)
 - [Web Weekly #85 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-85/)
 - [CSS clip-path can go outside of an element &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/css-clip-path-can-go-outside-of-an-element/)
-- [How to flip characters and words in your terminal &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-flip-characters-and-words-in-your-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
