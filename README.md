@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Elements can be visible even though their parent has set &quot;visibility: hidden&quot; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/elements-can-be-visible-even-though-their-parent-has-set-visibility-hidden/)
 - [Should responsive images work with container queries? &lpar;#note&rpar;](https://www.stefanjudis.com/notes/should-responsive-images-work-with-container-queries/)
 - [Web Weekly #86 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-86/)
 - [Top-level promise handling in Node.js ES modules &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/top-level-promise-handling-in-node-js/)
 - [The missing bridge in web development – JSON forms &lpar;#note&rpar;](https://www.stefanjudis.com/notes/the-missing-bridge-in-web-development-json-forms/)
-- [Web Weekly #85 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-85/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
