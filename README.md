@@ -7,10 +7,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Viewport units can consider the writing mode &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/viewport-units-can-consider-the-writing-mode/)
+- [How to animate height with CSS grid &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-animate-height-with-css-grid/)
 - [Web Weekly #89 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-89/)
 - [How to use Raycast snippet auto expansion &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-use-raycast-snippet-auto-expansion/)
 - [Web Weekly #88 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-88/)
-- [Web Weekly #87 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-87/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
