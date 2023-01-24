@@ -6,10 +6,10 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A CSS-based background grid generator &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-css-based-background-grid-generator/)
 - [How to disable Google sign-in prompts on other sites &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-disable-google-sign-in-prompts/)
 - [Viewport units can consider the writing mode &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/viewport-units-can-consider-the-writing-mode/)
 - [How to animate an element&#39;s height with CSS grid &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-animate-height-with-css-grid/)
-- [Web Weekly #89 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-89/)
 - [How to use Raycast snippet auto expansion &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-use-raycast-snippet-auto-expansion/)
 <!-- BLOG-POST-LIST:END -->
 
