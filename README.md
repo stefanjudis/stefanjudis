@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #90 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-90/)
 - [Why doesn&#39;t JSON support comments? &lpar;#note&rpar;](https://www.stefanjudis.com/notes/why-doesnt-json-support-comments/)
 - [A CSS-based background grid generator &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-css-based-background-grid-generator/)
 - [How to disable Google sign-in prompts on other sites &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-disable-google-sign-in-prompts/)
 - [Viewport units can consider the writing mode &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/viewport-units-can-consider-the-writing-mode/)
-- [How to animate an element&#39;s height with CSS grid &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-animate-height-with-css-grid/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
