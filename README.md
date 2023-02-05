@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS offers a tool to remove backgrounds from images &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/macos-offers-a-tool-to-remove-backgrounds-from-images/)
 - [How to fail function calls with undefined arguments with a one-liner &lpar;sorta&rpar; &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-fail-function-calls-with-undefined-arguments-with-a-one-liner-sorta/)
 - [Web Weekly #90 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-90/)
 - [Why doesn&#39;t JSON support comments? &lpar;#note&rpar;](https://www.stefanjudis.com/notes/why-doesnt-json-support-comments/)
 - [A CSS-based background grid generator &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-css-based-background-grid-generator/)
-- [How to disable Google sign-in prompts on other sites &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-disable-google-sign-in-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
