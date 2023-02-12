@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #92 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-92/)
 - [Git-based dotfile management without symlinks &lpar;#note&rpar;](https://www.stefanjudis.com/notes/git-based-dotfile-management-without-symlinks/)
 - [How to narrow and secure types with const assertions &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/)
 - [Web Weekly #91 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-91/)
 - [macOS offers a tool to remove backgrounds from images &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/macos-offers-a-tool-to-remove-backgrounds-from-images/)
-- [How to fail function calls with undefined arguments with a one-liner &lpar;sorta&rpar; &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-fail-function-calls-with-undefined-arguments-with-a-one-liner-sorta/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
