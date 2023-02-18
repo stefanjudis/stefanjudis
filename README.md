@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A userland React hook for managing global state &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/a-userland-react-hook-for-managing-global-state/)
 - [Web Weekly #92 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-92/)
 - [Git-based dotfile management without symlinks &lpar;#note&rpar;](https://www.stefanjudis.com/notes/git-based-dotfile-management-without-symlinks/)
 - [How to narrow and secure types with const assertions &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/)
 - [Web Weekly #91 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-91/)
-- [macOS offers a tool to remove backgrounds from images &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/macos-offers-a-tool-to-remove-backgrounds-from-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
