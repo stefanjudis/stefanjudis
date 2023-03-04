@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to safely remove untracked files from Git repos &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/)
 - [Web Weekly #93 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-93/)
 - [A userland React hook for managing global state &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/a-userland-react-hook-for-managing-global-state/)
 - [Web Weekly #92 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-92/)
 - [Git-based dotfile management without symlinks &lpar;#note&rpar;](https://www.stefanjudis.com/notes/git-based-dotfile-management-without-symlinks/)
-- [How to narrow and secure types with const assertions &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-narrow-and-secure-types-with-const-assertions/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
