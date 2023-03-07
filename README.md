@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [The problem of breaking changes and version numbers &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/the-problem-of-breaking-changes-and-version-numbers/)
 - [Web Weekly #94 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-94/)
 - [How to safely remove untracked files from Git repos &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/)
 - [Web Weekly #93 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-93/)
 - [A userland React hook for managing global state &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/a-userland-react-hook-for-managing-global-state/)
-- [Web Weekly #92 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-92/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
