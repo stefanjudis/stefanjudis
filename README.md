@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [VS Code extensions to ease navigating code &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/vs-code-extensions-to-ease-navigating-code/)
 - [Cool URIs don&#39;t change &lpar;#note&rpar;](https://www.stefanjudis.com/notes/cool-uris-dont-change/)
 - [YAML provides 9 ways to handle strings &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/yaml-provides-9-ways-to-handle-strings/)
 - [The problem of breaking changes and version numbers &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/the-problem-of-breaking-changes-and-version-numbers/)
 - [Web Weekly #94 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-94/)
-- [How to safely remove untracked files from Git repos &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-safely-remove-untracked-files-from-git-repos/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
