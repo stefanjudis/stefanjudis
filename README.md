@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Size container queries can detect landscape / portrait orientation &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/size-container-queries-can-detect-landscape-portrait-orientation/)
 - [Make a PDF look like it was manually scanned &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/make-a-pdf-look-like-it-was-manually-scanned/)
 - [Web Weekly #95 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-95/)
 - [VS Code extensions to ease navigating code &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/vs-code-extensions-to-ease-navigating-code/)
 - [Cool URIs don&#39;t change &lpar;#note&rpar;](https://www.stefanjudis.com/notes/cool-uris-dont-change/)
-- [YAML provides 9 ways to handle strings &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/yaml-provides-9-ways-to-handle-strings/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
