@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [The relative font weight axis — how variable fonts ease font weight transitions &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-relative-font-weight-axis-how-variable-fonts-ease-font-weight/)
 - [Web Weekly #97 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-97/)
 - [New on the web: How to detect disabled JavaScript in CSS &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-detect-disabled-javascript-in-css/)
 - [Web Weekly #96 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-96/)
 - [Size container queries can detect landscape / portrait orientation &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/size-container-queries-can-detect-landscape-portrait-orientation/)
-- [Make a PDF look like it was manually scanned &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/make-a-pdf-look-like-it-was-manually-scanned/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
