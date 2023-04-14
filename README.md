@@ -6,7 +6,7 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Glyphhanger — a tool subset and optimize fonts &lpar;#note&rpar;](https://www.stefanjudis.com/notes/glyphhanger-a-tool-subset-and-optimize-fonts/)
+- [Glyphhanger — a tool to subset and optimize fonts &lpar;#note&rpar;](https://www.stefanjudis.com/notes/glyphhanger-a-tool-subset-and-optimize-fonts/)
 - [Web Weekly #98 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-98/)
 - [How to show more than ten results per page on Google Search &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-show-more-than-ten-results-per-page-on-google-search/)
 - [The relative font weight axis — how variable fonts ease font weight transitions &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-relative-font-weight-axis-how-variable-fonts-ease-font-weight/)
