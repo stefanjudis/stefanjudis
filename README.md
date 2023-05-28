@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Resumability, compilers and event delegation &lpar;#note&rpar;](https://www.stefanjudis.com/notes/resumability-compilers-and-event-delegation/)
 - [Web Weekly #101 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-101/)
 - [Web Weekly #100 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-100/)
 - [The lie of YouTube&#39;s privacy-enhanced embed mode &lpar;#note&rpar;](https://www.stefanjudis.com/notes/the-lie-of-youtubes-privacy-enhanced-embed-mode/)
 - [Web Weekly #99 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-99/)
-- [Slice — an app to remove variable font axes &lpar;#note&rpar;](https://www.stefanjudis.com/notes/slice-an-app-to-remove-variable-font-axes/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
