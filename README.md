@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #102 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-102/)
 - [Safari allows to configure password autofilling &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/safari-allows-to-configure-password-autofilling/)
 - [Resumability, compilers and event delegation &lpar;#note&rpar;](https://www.stefanjudis.com/notes/resumability-compilers-and-event-delegation/)
 - [Web Weekly #101 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-101/)
 - [Web Weekly #100 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-100/)
-- [The lie of YouTube&#39;s privacy-enhanced embed mode &lpar;#note&rpar;](https://www.stefanjudis.com/notes/the-lie-of-youtubes-privacy-enhanced-embed-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
