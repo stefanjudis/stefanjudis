@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use EventTarget as a web-native event emitter &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/)
 - [A ::selection web compatibility issue &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/)
 - [Web Weekly #104 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-104/)
 - [Web Weekly #103 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-103/)
 - [Web Weekly #102 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-102/)
-- [Safari allows to configure password autofilling &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/safari-allows-to-configure-password-autofilling/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
