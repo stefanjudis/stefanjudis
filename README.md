@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Why do visually hidden CSS classes define a size of 1x1? &lpar;#note&rpar;](https://www.stefanjudis.com/notes/why-do-visually-hidden-css-classes-define-a-size-of-1x1/)
 - [The &quot;DomInteractive&quot; event and a browser metrics deep dive &lpar;#note&rpar;](https://www.stefanjudis.com/notes/the-dominteractive-event-and-a-browser-metrics-deep-dive/)
 - [Web Weekly #105 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-105/)
 - [How to use EventTarget as a web-native event emitter &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/)
 - [A ::selection web compatibility issue &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/)
-- [Web Weekly #104 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-104/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
