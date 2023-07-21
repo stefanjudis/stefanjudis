@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-closing tags are mostly meaningless in HTML &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/self-closing-tags-are-mostly-meaningless-in-html/)
 - [Why do visually hidden CSS classes define a size of 1x1? &lpar;#note&rpar;](https://www.stefanjudis.com/notes/why-do-visually-hidden-css-classes-define-a-size-of-1x1/)
 - [The &quot;DomInteractive&quot; event and a browser metrics deep dive &lpar;#note&rpar;](https://www.stefanjudis.com/notes/the-dominteractive-event-and-a-browser-metrics-deep-dive/)
 - [Web Weekly #105 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-105/)
 - [How to use EventTarget as a web-native event emitter &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-use-eventtarget-as-a-web-native-event-emitter/)
-- [A ::selection web compatibility issue &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-selection-web-compatibility-issue/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
