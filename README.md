@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to show TypeScript type annotations in code snippets &lpar;#note&rpar;](https://www.stefanjudis.com/notes/how-to-show-typescript-type-annotations-in-code-snippets/)
 - [Web Weekly #108 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-108/)
 - [Web Weekly #107 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-107/)
 - [How to prerender Tweets without using the official Twitter APIs &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-prerender-tweets-without-using-the-official-twitter-apis/)
 - [Web Weekly #106 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-106/)
-- [Self-closing tags are mostly meaningless in HTML &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/self-closing-tags-are-mostly-meaningless-in-html/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
