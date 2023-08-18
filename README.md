@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use headless Chrome in serverless functions with a 50MB limit &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/)
 - [How to show TypeScript type annotations in code snippets &lpar;#note&rpar;](https://www.stefanjudis.com/notes/how-to-show-typescript-type-annotations-in-code-snippets/)
 - [Copy an array and replace one element at a specific index with modern JavaScript &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/copy-array-and-replace-one-element-at-index-javascript/)
 - [Web Weekly #108 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-108/)
 - [Web Weekly #107 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-107/)
-- [How to prerender Tweets without using the official Twitter APIs &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-prerender-tweets-without-using-the-official-twitter-apis/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
