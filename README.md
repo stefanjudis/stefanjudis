@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Conversation closure &lpar;#note&rpar;](https://www.stefanjudis.com/notes/conversation-closure/)
 - [Web Weekly #110 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-110/)
 - [Web Weekly #109 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-109/)
 - [Fancy SVG filters &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/fancy-svg-filters/)
 - [How to use headless Chrome in serverless functions with a 50MB limit &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/)
-- [How to remove all event listeners from a DOM element &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/how-to-remove-all-event-listeners-from-a-dom-element/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
