@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A new method to validate URLs in JavaScript &lpar;2023 edition&rpar; &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
 - [Conversation closure &lpar;#note&rpar;](https://www.stefanjudis.com/notes/conversation-closure/)
 - [Web Weekly #110 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-110/)
 - [Web Weekly #109 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-109/)
 - [Fancy SVG filters &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/fancy-svg-filters/)
-- [How to use headless Chrome in serverless functions with a 50MB limit &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-to-use-headless-chrome-in-serverless-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
