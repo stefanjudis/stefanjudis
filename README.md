@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #111 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-111/)
 - [A new method to validate URLs in JavaScript &lpar;2023 edition&rpar; &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
 - [Conversation closure &lpar;#note&rpar;](https://www.stefanjudis.com/notes/conversation-closure/)
 - [Web Weekly #110 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-110/)
 - [Web Weekly #109 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-109/)
-- [Fancy SVG filters &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/fancy-svg-filters/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
