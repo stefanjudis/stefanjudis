@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #112 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-112/)
 - [How to style element descendants with Tailwind CSS &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendants-with-tailwind-css/)
 - [How to escape CSS selectors in JavaScript &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-escape-css-selectors-in-javascript/)
 - [Web Weekly #111 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-111/)
 - [A new method to validate URLs in JavaScript &lpar;2023 edition&rpar; &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
-- [Conversation closure &lpar;#note&rpar;](https://www.stefanjudis.com/notes/conversation-closure/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
