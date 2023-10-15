@@ -6,7 +6,7 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to style element descendents with Tailwind CSS &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendents-with-tailwind-css/)
+- [How to style element descendants with Tailwind CSS &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-style-element-descendants-with-tailwind-css/)
 - [How to escape CSS selectors in JavaScript &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-escape-css-selectors-in-javascript/)
 - [Web Weekly #111 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-111/)
 - [A new method to validate URLs in JavaScript &lpar;2023 edition&rpar; &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/validate-urls-in-javascript/)
