@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #115 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-115/)
 - [Web Weekly #114 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-114/)
 - [Too small touch targets &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/too-small-touch-targets/)
 - [JS surprise: Array.every&lpar;&rpar; always returns true for empty arrays &lpar;#note&rpar;](https://www.stefanjudis.com/notes/array-every-always-returns-true-for-empty-arrays/)
 - [Web Weekly #113 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-113/)
-- [Web Weekly #112 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-112/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
