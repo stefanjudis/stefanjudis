@@ -7,10 +7,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Web Weekly #116 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-116/)
+- [A web component to make your text sparkle &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-web-component-to-make-your-text-sparkle/)
 - [oklch&lpar;&rpar; retains perceived lightness for different hue angles &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/oklch-perceived-lightness/)
 - [Web Weekly #115 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-115/)
 - [Web Weekly #114 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-114/)
-- [Too small touch targets &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/too-small-touch-targets/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
