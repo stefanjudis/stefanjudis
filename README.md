@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #117 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-117/)
 - [CSS only &quot;scroll-to-top&quot; &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/css-only-scroll-to-top/)
-- [Web Weekly #116 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-116/)
 - [A web component to make your text sparkle &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-web-component-to-make-your-text-sparkle/)
+- [Web Weekly #116 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-116/)
 - [oklch&lpar;&rpar; retains perceived lightness for different hue angles &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/oklch-perceived-lightness/)
-- [Web Weekly #115 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-115/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
