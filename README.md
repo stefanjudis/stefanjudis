@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to exclude elements from being shown in Google Search results &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-exclude-elements-from-being-shown-in-google-search-results/)
 - [How to do math in shell environments &lpar;bash, zsh, ...&rpar; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/math-in-shell-environments/)
 - [Web Weekly #119 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-119/)
 - [Web Weekly #118 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-118/)
 - [Local link targets must be focusable to prevent accessibility issues &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/relative-html-links-focus-issues/)
-- [Web Weekly #117 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-117/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
