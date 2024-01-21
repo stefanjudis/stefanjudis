@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #120 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-120/)
 - [Accessible notifications &lpar;#note&rpar;](https://www.stefanjudis.com/notes/accessible-notifications/)
 - [How to exclude elements from being shown in Google Search results &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-exclude-elements-from-being-shown-in-google-search-results/)
 - [How to do math in shell environments &lpar;bash, zsh, ...&rpar; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/math-in-shell-environments/)
 - [Web Weekly #119 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-119/)
-- [Web Weekly #118 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-118/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
