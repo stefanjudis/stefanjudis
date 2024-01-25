@@ -6,8 +6,8 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to turn off password managers for fields &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/turn-off-password-managers/)
 - [Fading out text with CSS &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/fading-out-text-with-css/)
+- [How to turn off password managers for fields &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/turn-off-password-managers/)
 - [Web Weekly #120 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-120/)
 - [Accessible notifications &lpar;#note&rpar;](https://www.stefanjudis.com/notes/accessible-notifications/)
 - [How to exclude elements from being shown in Google Search results &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-exclude-elements-from-being-shown-in-google-search-results/)
