@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #121 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-121/)
 - [How to type fixed string value combinations with template literal types &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/template-literal-types/)
 - [How to turn off password managers for fields &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/turn-off-password-managers/)
 - [Fading out text with CSS &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/fading-out-text-with-css/)
 - [Web Weekly #120 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-120/)
-- [Accessible notifications &lpar;#note&rpar;](https://www.stefanjudis.com/notes/accessible-notifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
