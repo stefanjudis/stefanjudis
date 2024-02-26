@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #123 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-123/)
 - [htmz — a 176 bytes htmx alternative &lpar;#note&rpar;](https://www.stefanjudis.com/notes/htmz-a-176-bytes-htmx-alternative/)
 - [Web Weekly #122 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-122/)
 - [Web Weekly #121 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-121/)
 - [How to type fixed string value combinations with template literal types &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/template-literal-types/)
-- [How to turn off password managers for fields &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/turn-off-password-managers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
