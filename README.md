@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #124 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-124/)
 - [Forever projects &lpar;#note&rpar;](https://www.stefanjudis.com/notes/forever-projects/)
 - [Web Weekly #123 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-123/)
 - [htmz — a 176 bytes htmx alternative &lpar;#note&rpar;](https://www.stefanjudis.com/notes/htmz-a-176-bytes-htmx-alternative/)
 - [Web Weekly #122 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-122/)
-- [Web Weekly #121 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-121/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
