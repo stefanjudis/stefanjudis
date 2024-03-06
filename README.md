@@ -7,10 +7,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Web Weekly #124 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-124/)
+- [Readonly files in VSCode &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/readonly-files-in-vscode/)
 - [Forever projects &lpar;#note&rpar;](https://www.stefanjudis.com/notes/forever-projects/)
 - [Web Weekly #123 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-123/)
 - [htmz — a 176 bytes htmx alternative &lpar;#note&rpar;](https://www.stefanjudis.com/notes/htmz-a-176-bytes-htmx-alternative/)
-- [Web Weekly #122 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-122/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
