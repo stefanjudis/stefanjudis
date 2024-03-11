@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A list of design inspiration lists &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/design-inspiration-lists/)
 - [The death of custom media queries &lpar;#note&rpar;](https://www.stefanjudis.com/notes/The-death-of-custom-media-queries/)
 - [Web Weekly #124 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-124/)
 - [Readonly files in VSCode &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/readonly-files-in-vscode/)
 - [Forever projects &lpar;#note&rpar;](https://www.stefanjudis.com/notes/forever-projects/)
-- [Web Weekly #123 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-123/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
