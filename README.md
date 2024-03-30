@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [disabled vs aria-disabled on form elements &lpar;#note&rpar;](https://www.stefanjudis.com/notes/disabled-vs-aria-disabled-on-form-elements/)
 - [Auto-margin works with absolute positioned elements &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/auto-margin-works-with-absolute-positioned-elements/)
 - [A list of design inspiration lists &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/design-inspiration-lists/)
 - [Web Weekly #125 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-125/)
 - [The death of custom media queries &lpar;#note&rpar;](https://www.stefanjudis.com/notes/The-death-of-custom-media-queries/)
-- [Web Weekly #124 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-124/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
