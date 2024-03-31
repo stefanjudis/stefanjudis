@@ -7,10 +7,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Reasons for opening links in a new tab &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/reasons-for-opening-links-in-a-new-tab/)
+- [Web Weekly #126 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-126/)
 - [disabled vs aria-disabled on form elements &lpar;#note&rpar;](https://www.stefanjudis.com/notes/disabled-vs-aria-disabled-on-form-elements/)
 - [Timestamped Git yolo commits  &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/timestamped-git-yolo-commits/)
 - [Auto-margin works with absolute positioned elements &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/auto-margin-works-with-absolute-positioned-elements/)
-- [A list of design inspiration lists &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/design-inspiration-lists/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
