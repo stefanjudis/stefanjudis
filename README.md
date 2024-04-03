@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Bun&#39;s trusted dependencies &lpar;#note&rpar;](https://www.stefanjudis.com/notes/buns-trusted-dependencies/)
 - [Unit testing AI apps &lpar;#note&rpar;](https://www.stefanjudis.com/notes/ai-app-unit-testing/)
 - [Reasons for opening links in a new tab &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/reasons-for-opening-links-in-a-new-tab/)
 - [Web Weekly #126 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-126/)
 - [disabled vs aria-disabled on form elements &lpar;#note&rpar;](https://www.stefanjudis.com/notes/disabled-vs-aria-disabled-on-form-elements/)
-- [Timestamped Git yolo commits  &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/timestamped-git-yolo-commits/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
