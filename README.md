@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Reveal an image with smart padding &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/image-padding-trick/)
 - [Web Weekly #127 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-127/)
 - [Index images, videos and news with specialized sitemaps &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/image-video-news-sitemaps/)
 - [Why do I fail at achieving personal goals? &lpar;#note&rpar;](https://www.stefanjudis.com/notes/failing-at-personal-goals/)
 - [Bun&#39;s trusted dependencies &lpar;#note&rpar;](https://www.stefanjudis.com/notes/buns-trusted-dependencies/)
-- [Unit testing AI apps &lpar;#note&rpar;](https://www.stefanjudis.com/notes/ai-app-unit-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
