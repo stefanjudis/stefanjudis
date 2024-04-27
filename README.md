@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [VS Code&#39;s new minimap section headers &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/vs-code-minimap-section-headers/)
 - [Disable Angular&#39;s scroll position restoration for specific routes &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/disable-angular-scroll-position-restoration/)
 - [Reveal an image with smart padding &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/image-padding-trick/)
 - [Web Weekly #127 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-127/)
 - [Index images, videos and news with specialized sitemaps &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/image-video-news-sitemaps/)
-- [Why do I fail at achieving personal goals? &lpar;#note&rpar;](https://www.stefanjudis.com/notes/failing-at-personal-goals/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
