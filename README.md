@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #129 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-129/)
 - [Web Weekly #128 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-128/)
 - [VS Code&#39;s new minimap section headers &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/vs-code-minimap-section-headers/)
 - [Disable Angular&#39;s scroll position restoration for specific routes &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/disable-angular-scroll-position-restoration/)
 - [Reveal an image with smart padding &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/image-padding-trick/)
-- [Web Weekly #127 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-127/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
