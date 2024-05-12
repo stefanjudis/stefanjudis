@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #130 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-130/)
 - [Target=_blank implies rel=noopener &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/)
 - [Web Weekly #129 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-129/)
 - [Web Weekly #128 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-128/)
 - [VS Code&#39;s new minimap section headers &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/vs-code-minimap-section-headers/)
-- [Disable Angular&#39;s scroll position restoration for specific routes &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/disable-angular-scroll-position-restoration/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
