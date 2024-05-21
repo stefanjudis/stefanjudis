@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #131 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-131/)
 - [Web Weekly #130 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-130/)
 - [Target=_blank implies rel=noopener &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/target-blank-implies-rel-noopener/)
 - [Web Weekly #129 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-129/)
 - [Web Weekly #128 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-128/)
-- [VS Code&#39;s new minimap section headers &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/vs-code-minimap-section-headers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
