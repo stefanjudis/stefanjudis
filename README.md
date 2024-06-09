@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #134 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-134/)
 - [Investigating INP issues &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/investigating-inp-issues/)
 - [Web Weekly #133 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-133/)
 - [Web Weekly #132 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-132/)
 - [Web Weekly #131 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-131/)
-- [Web Weekly #130 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-130/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
