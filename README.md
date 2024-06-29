@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web content and copyrights &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-content-and-copyrights/)
 - [Web Weekly #135 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-135/)
 - [Safari 18 — what web features are usable across browsers? &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/safari-18-what-web-features-are-usable-across-browsers/)
 - [Support your local content dealers &lpar;#note&rpar;](https://www.stefanjudis.com/notes/support-your-local-content-dealers/)
 - [Investigating INP issues &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/investigating-inp-issues/)
-- [Web Weekly #134 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-134/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
