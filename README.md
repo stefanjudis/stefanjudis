@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #138 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-138/)
 - [Web Weekly #137 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-137/)
 - [Web Weekly #136 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-136/)
 - [Construct query strings from FormData &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/formdata-to-url-search-params/)
 - [Web content, the social contract and copyrights &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-content-and-copyrights/)
-- [Web Weekly #135 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-135/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
