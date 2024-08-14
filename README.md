@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Space shuttle style coding &lpar;#note&rpar;](https://www.stefanjudis.com/notes/space-shuttle-style-coding/)
 - [Web Weekly #139 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-139/)
 - [Forms without an accessible name are not exposed as ARIA landmarks &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/forms-require-an-accessible-name/)
 - [Web Weekly #138 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-138/)
 - [Web Weekly #137 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-137/)
-- [Web Weekly #136 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-136/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
