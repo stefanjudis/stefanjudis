@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A short cut to edit long shell commands in your $EDITOR &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/edit-long-shell-commands-in-your-usdeditor/)
 - [Web Weekly #140 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-140/)
 - [Space shuttle style coding &lpar;#note&rpar;](https://www.stefanjudis.com/notes/space-shuttle-style-coding/)
 - [Web Weekly #139 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-139/)
 - [Forms without an accessible name are not exposed as ARIA landmarks &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/forms-require-an-accessible-name/)
-- [Web Weekly #138 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-138/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
