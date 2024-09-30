@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #142 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-142/)
 - [On being a &quot;JavaScript framework developer&quot;... &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/on-being-a-javascript-framework-developer/)
 - [Web Weekly #141 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-141/)
 - [The order of accessible name computation steps &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-order-of-accessible-name-computation-steps/)
 - [A shortcut to edit long shell commands in your $EDITOR &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/edit-long-shell-commands-in-your-usdeditor/)
-- [Web Weekly #140 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-140/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
