@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Set the default time zone in Node.js &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/set-the-default-time-zone-in-node-js/)
 - [Processes and rules make code review less intimidating &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/processes-and-rules-make-code-review-less-intimidating/)
 - [Web Weekly #142 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-142/)
 - [On being a &quot;JavaScript framework developer&quot;... &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/on-being-a-javascript-framework-developer/)
 - [Web Weekly #141 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-141/)
-- [The order of accessible name computation steps &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-order-of-accessible-name-computation-steps/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
