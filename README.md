@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #145 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-145/)
 - [An API to access browser support and baseline data &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/an-api-to-access-browser-support-and-baseline-data/)
 - [Earlier function parameters are available to default parameters &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/earlier-function-parameters-are-available-to-default-parameters/)
 - [Navigate your shell history with CTRL keys &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/navigate-shell-history-with-ctrl-keys/)
 - [Web Weekly #144 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-144/)
-- [A web component to show browser support and baseline status &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/browser-support-baseline-web-component/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
