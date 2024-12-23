@@ -6,7 +6,7 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Blogging is about having something to show &lpar;#note&rpar;](https://www.stefanjudis.com/notes/blogging-is-about-having-something-to-show/)
+- [To blog something to show &lpar;#note&rpar;](https://www.stefanjudis.com/notes/blogging-is-about-having-something-to-show/)
 - [Web Weekly #146 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-146/)
 - [Hide object properties with JavaScript symbols &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/hide-object-properties-with-javascript-symbols/)
 - [How to open a local file from the URL bar in VS Code &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/open-a-local-file-url-bar-in-vs-code/)
