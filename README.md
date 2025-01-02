@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Duplicated CSS @keyframes properties are valid &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/css-keyframes-duplicated-properties/)
 - [To blog something to show &lpar;#note&rpar;](https://www.stefanjudis.com/notes/blogging-is-about-having-something-to-show/)
 - [Web Weekly #146 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-146/)
 - [Hide object properties with JavaScript symbols &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/hide-object-properties-with-javascript-symbols/)
 - [How to open a local file from the URL bar in VS Code &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/open-a-local-file-url-bar-in-vs-code/)
-- [Web Weekly #145 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-145/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
