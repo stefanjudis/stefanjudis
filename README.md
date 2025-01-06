@@ -6,7 +6,7 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Use &quot;translate&quot; to turn off element translation &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/non-translatable-html-elements/)
+- [Use &quot;translate&quot; to turn off element translations &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/non-translatable-html-elements/)
 - [Default Apps 2024 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/default-apps-2024/)
 - [Duplicated CSS @keyframes properties are valid &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/css-keyframes-duplicated-properties/)
 - [To blog something to show &lpar;#note&rpar;](https://www.stefanjudis.com/notes/blogging-is-about-having-something-to-show/)
