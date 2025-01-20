@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Template Literal Types for validating files names &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/template-literal-types-for-validating-files-names/)
 - [Web Weekly #148 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-148/)
 - [Static initialization blocks in JavaScript classes &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/static-initialization-blocks-in-javascript-classes/)
 - [Web Weekly #147 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-147/)
 - [Use &quot;translate&quot; to turn off element translations &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/non-translatable-html-elements/)
-- [Default Apps 2024 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/default-apps-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
