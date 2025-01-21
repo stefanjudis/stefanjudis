@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to open a new project in the same VS Code window &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/reuse-editor-window-in-vs-code/)
 - [Web Weekly #149 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-149/)
 - [Template Literal Types for validating files names &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/template-literal-types-for-validating-files-names/)
 - [Web Weekly #148 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-148/)
 - [Static initialization blocks in JavaScript classes &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/static-initialization-blocks-in-javascript-classes/)
-- [Web Weekly #147 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-147/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
