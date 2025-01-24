@@ -6,7 +6,7 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [A &quot;section&quot; without an accessible name is nothing but a div &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/section-accessible-name/)
+- [A &quot;section&quot; without an accessible name is nothing but a &quot;div&quot; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/section-accessible-name/)
 - [How to open a new project in the same VS Code window &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/reuse-editor-window-in-vs-code/)
 - [Web Weekly #149 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-149/)
 - [Template Literal Types for validating files names &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/template-literal-types-for-validating-files-names/)
