@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #150 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-150/)
 - [Load the default OS font with CSS &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/load-the-default-os-font-with-css/)
 - [A &quot;section&quot; without an accessible name is nothing but a &quot;div&quot; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/section-accessible-name/)
-- [How to open a new project in the same VS Code window &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/reuse-editor-window-in-vs-code/)
+- [Open a new project in the same VS Code window &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/reuse-editor-window-in-vs-code/)
 - [Web Weekly #149 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-149/)
-- [Template Literal Types for validating files names &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/template-literal-types-for-validating-files-names/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
