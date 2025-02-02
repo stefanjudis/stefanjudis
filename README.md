@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to load images in a spreadsheet &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-load-images-in-a-spreadsheet/)
 - [Web Weekly #150 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-150/)
 - [Playwright has an experimental CLI watch mode &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/playwrights-cli-watch-mode/)
 - [Load the default OS font with CSS &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/load-the-default-os-font-with-css/)
 - [A &quot;section&quot; without an accessible name is nothing but a &quot;div&quot; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/section-accessible-name/)
-- [Open a new project in the same VS Code window &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/reuse-editor-window-in-vs-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
