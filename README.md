@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [The difference between @ts-ignore and @ts-expect-error &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-difference-ts-ignore-and-ts-expect-error/)
 - [How to load images in a spreadsheet &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-load-images-in-a-spreadsheet/)
 - [Web Weekly #150 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-150/)
 - [Playwright has an experimental CLI watch mode &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/playwrights-cli-watch-mode/)
 - [Load the default OS font with CSS &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/load-the-default-os-font-with-css/)
-- [A &quot;section&quot; without an accessible name is nothing but a &quot;div&quot; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/section-accessible-name/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
