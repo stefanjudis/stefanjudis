@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #151 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-151/)
 - [How to apply a global Git commit template &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/global-git-commit-templates/)
 - [A well-known avatar URL would be dang cool. &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-well-known-avatar-url-would-be-dang-cool/)
 - [The difference between @ts-ignore and @ts-expect-error &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-difference-ts-ignore-and-ts-expect-error/)
 - [How to load images in a spreadsheet &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-load-images-in-a-spreadsheet/)
-- [Web Weekly #150 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-150/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
