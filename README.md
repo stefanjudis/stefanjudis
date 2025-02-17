@@ -6,7 +6,7 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [How to iterate over a TypeScript union type &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/iterate-typescript-union-type/)
+- [How to iterate over TypeScript union types &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/iterate-typescript-union-type/)
 - [Web Weekly #151 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-151/)
 - [How to apply a global Git commit template &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/global-git-commit-templates/)
 - [A well-known avatar URL would be dang cool. &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/a-well-known-avatar-url-would-be-dang-cool/)
