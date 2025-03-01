@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript &quot;strictFunctionTypes&quot; is ignored for method syntax &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/typescript-ignored-strict-function-types/)
 - [Rerun commands with the built-in &quot;r&quot; command &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/)
 - [Web Weekly #152 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-152/)
 - [How to iterate over TypeScript union types &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/iterate-typescript-union-type/)
 - [Web Weekly #151 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-151/)
-- [How to apply a global Git commit template &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/global-git-commit-templates/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
