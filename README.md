@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on close requests for dialogs &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/risky-mobile-close-requests/)
 - [parseInt parses anything starting with a number &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/parseint-parses-anything-starting-with-a-number/)
 - [Web Weekly #153 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-153/)
 - [TypeScript &quot;strictFunctionTypes&quot; is ignored for method syntax &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/typescript-ignored-strict-function-types/)
 - [Rerun commands with the built-in &quot;r&quot; command &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/rerun-commands-with-the-r-command/)
-- [Web Weekly #152 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-152/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
