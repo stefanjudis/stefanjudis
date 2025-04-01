@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #156 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-156/)
 - [Forbidden headers can&#39;t be set in &quot;fetch&quot; requests &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/forbidden-headers-cant-be-set-in-fetch-requests/)
 - [Web Weekly #155 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-155/)
 - [WCAG success criteria that can&#39;t be autmatically tested &lpar;#note&rpar;](https://www.stefanjudis.com/notes/wcag-success-criteria-that-cant-be-autmatically-tested/)
 - [Web Weekly #154 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-154/)
-- [The macOS inline dictionary has a shortcut &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-macos-inline-dictionary-has-a-shortcut/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
