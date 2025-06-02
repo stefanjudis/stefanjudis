@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #159 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-159/)
 - [The Internet Archive opt out itch &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/the-internet-archive-opt-out-itch/)
 - [Web Weekly #158 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-158/)
 - [Stringly Typed &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/stringly-typed/)
 - [Web Weekly #157 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-157/)
-- [Web Weekly #156 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-156/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
