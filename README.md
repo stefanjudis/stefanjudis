@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Talking about the Polypane browser with Kilian Valkhof &lpar;#note&rpar;](https://www.stefanjudis.com/notes/talking-about-the-polypane-browser-with-kilian-valkhof/)
 - [Quoting Jeffrey Zeldman &lpar;#note&rpar;](https://www.stefanjudis.com/notes/quoting-jeffrey-zeldman/)
 - [Open new tabs next to the current one in Firefox &lpar;#note&rpar;](https://www.stefanjudis.com/notes/open-new-tabs-next-to-the-current-one-in-firefox/)
 - [Web Weekly #163 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-163/)
 - [Web Weekly #162 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-162/)
-- [Web Weekly #161 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-161/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
