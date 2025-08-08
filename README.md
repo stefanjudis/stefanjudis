@@ -7,10 +7,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Tag, you&#39;re it &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/questions-about-blogging/)
+- [IntelliSense in the VS Code terminal &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/intellisense-in-the-vs-code-terminal/)
 - [Node.js supports import maps &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/node-js-import-maps/)
 - [Web Weekly #164 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-164/)
 - [Talking about the Polypane browser with Kilian Valkhof &lpar;#note&rpar;](https://www.stefanjudis.com/notes/talking-about-the-polypane-browser-with-kilian-valkhof/)
-- [Quoting Jeffrey Zeldman &lpar;#note&rpar;](https://www.stefanjudis.com/notes/quoting-jeffrey-zeldman/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
