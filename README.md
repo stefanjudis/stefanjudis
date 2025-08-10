@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [Tag, you&#39;re it &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/questions-about-blogging/)
+- [How I record, edit and publish YouTube videos &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-i-record-edit-and-publish-youtube-videos/)
 - [IntelliSense in the VS Code terminal &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/intellisense-in-the-vs-code-terminal/)
+- [Tag, you&#39;re it &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/questions-about-blogging/)
 - [Node.js supports import maps &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/node-js-import-maps/)
 - [Web Weekly #164 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-164/)
-- [Talking about the Polypane browser with Kilian Valkhof &lpar;#note&rpar;](https://www.stefanjudis.com/notes/talking-about-the-polypane-browser-with-kilian-valkhof/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
