@@ -6,10 +6,10 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #167 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-167/)
 - [Web Weekly #166 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-166/)
 - [Web Weekly #165 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-165/)
 - [How I record, edit and publish YouTube videos &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/how-i-record-edit-and-publish-youtube-videos/)
-- [IntelliSense in the VS Code terminal &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/intellisense-in-the-vs-code-terminal/)
 - [Tag, you&#39;re it &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/questions-about-blogging/)
 <!-- BLOG-POST-LIST:END -->
 
