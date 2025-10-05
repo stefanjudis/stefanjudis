@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #169 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-169/)
 - [Keyframe animations have a special role in the CSS cascade &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/)
 - [When AI will browse the web for me &lpar;#note&rpar;](https://www.stefanjudis.com/notes/when-ai-will-browse-the-web-for-me/)
 - [Web Weekly #168 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-168/)
 - [Web Weekly #167 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-167/)
-- [Web Weekly #166 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-166/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
