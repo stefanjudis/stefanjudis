@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Header and footer elements lose their roles in sectioning content &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/header-and-footer-elements-lose-their-roles-in-sectioning-content/)
 - [I disabled my YouTube &quot;Home&quot; feed and I might like it &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/i-disabled-my-youtube-home-feed-and-i-might-like-it/)
 - [Web Weekly #170 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-170/)
 - [Node.js includes a native glob utility &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/node-js-includes-a-native-glob-utility/)
 - [Web Weekly #169 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-169/)
-- [Keyframe animations have a special role in the CSS cascade &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/keyframe-animations-have-a-special-role-in-the-css-cascade/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
