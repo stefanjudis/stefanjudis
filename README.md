@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #172 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-172/)
 - [Turn off macOS Liquid Glass via the CLI &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/)
 - [Web Weekly #171 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-171/)
 - [field-sizing isn&#39;t only about growing textareas &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/field-sizing-is-about-more-than-textareas/)
 - [Header &amp; footer elements change their roles when they&#39;re inside of sectioning content &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/header-and-footer-elements-lose-their-roles-in-sectioning-content/)
-- [I disabled my YouTube &quot;Home&quot; feed and I might like it &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/i-disabled-my-youtube-home-feed-and-i-might-like-it/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
