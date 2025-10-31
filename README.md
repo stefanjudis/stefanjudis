@@ -7,10 +7,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Quoting Pablo Enoc &lpar;#note&rpar;](https://www.stefanjudis.com/notes/quoting-pablo-enoc/)
+- [Stop citing AI &lpar;#note&rpar;](https://www.stefanjudis.com/notes/stop-citing-ai/)
 - [Web Weekly #172 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-172/)
 - [Turn off macOS Liquid Glass via the CLI &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/)
 - [Web Weekly #171 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-171/)
-- [field-sizing isn&#39;t only about growing textareas &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/field-sizing-is-about-more-than-textareas/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
