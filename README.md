@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #173 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-173/)
+- [pathLength makes makes SVG path animations easier to manage &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/pathlength-makes-makes-svg-path-animations-easier-to-manage/)
 - [Chrome supports split views &lpar;behind a flag&rpar; &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/chrome-split-views/)
 - [Quoting Pablo Enoc &lpar;#note&rpar;](https://www.stefanjudis.com/notes/quoting-pablo-enoc/)
 - [Stop citing AI &lpar;#note&rpar;](https://www.stefanjudis.com/notes/stop-citing-ai/)
-- [Web Weekly #172 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-172/)
-- [Turn off macOS Liquid Glass via the CLI &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/turn-off-macos-liquid-glass-via-the-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
