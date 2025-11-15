@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [How to &quot;officially&quot; deprecate methods with Node.js utilities &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/deprecate-method-in-node-js/)
 - [Syntax-highlighting for JS template strings in VS Code &lpar;#note&rpar;](https://www.stefanjudis.com/notes/syntax-highlighted-template-strings-vs-code/)
 - [Web Weekly #174 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-174/)
 - [Web Weekly #173 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-173/)
 - [pathLength makes makes SVG path animations easier to manage &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/pathlength-makes-makes-svg-path-animations-easier-to-manage/)
-- [Chrome supports split views &lpar;behind a flag&rpar; &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/chrome-split-views/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
