@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #175 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-175/)
 - [Three conditional border-radius CSS snippets &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/three-conditional-border-radius-css-snippets/)
 - [How to &quot;officially&quot; deprecate methods with Node.js utilities &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/deprecate-method-in-node-js/)
 - [A Raycast confetti shell command &lpar;#note&rpar;](https://www.stefanjudis.com/notes/a-raycast-confetti-shell-command/)
 - [Syntax-highlighting for JS template strings in VS Code &lpar;#note&rpar;](https://www.stefanjudis.com/notes/syntax-highlighted-template-strings-vs-code/)
-- [Web Weekly #174 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-174/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
