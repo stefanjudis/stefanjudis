@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #178 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-178/)
 - [Web Weekly #177 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-177/)
 - [Web Weekly #176 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-176/)
 - [light-dark&lpar;&rpar; isn&#39;t always the same as prefers-color-scheme &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/light-dark-isnt-the-same-as-prefers-color-scheme/)
 - [Web Weekly #175 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-175/)
-- [Three conditional border-radius CSS snippets &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/three-conditional-border-radius-css-snippets/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
