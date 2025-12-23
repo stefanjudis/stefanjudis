@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Feature detection of View Transition Types &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/feature-detection-of-view-transition-types/)
 - [Simon Willison on delivering AI generated code &lpar;#note&rpar;](https://www.stefanjudis.com/notes/simon-willison-on-delivering-ai-generated-code/)
 - [Web Weekly #178 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-178/)
 - [Web Weekly #177 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-177/)
 - [Web Weekly #176 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-176/)
-- [light-dark&lpar;&rpar; isn&#39;t always the same as prefers-color-scheme &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/light-dark-isnt-the-same-as-prefers-color-scheme/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
