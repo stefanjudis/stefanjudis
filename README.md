@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [A ready-to-use diff component &lpar;#note&rpar;](https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/)
 - [Feature detection of View Transition Types &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/feature-detection-of-view-transition-types/)
 - [Simon Willison on delivering AI generated code &lpar;#note&rpar;](https://www.stefanjudis.com/notes/simon-willison-on-delivering-ai-generated-code/)
 - [Web Weekly #178 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-178/)
 - [Web Weekly #177 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-177/)
-- [Web Weekly #176 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-176/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
