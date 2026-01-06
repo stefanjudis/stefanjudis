@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #179 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-179/)
 - [Automatically load .env files in Node.js scripts &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/load-env-files-in-node-js-scripts/)
 - [A ready-to-use diff component &lpar;#note&rpar;](https://www.stefanjudis.com/notes/a-ready-to-use-diff-component/)
 - [Feature detection of View Transition Types &lpar;#snippet&rpar;](https://www.stefanjudis.com/snippets/feature-detection-of-view-transition-types/)
 - [Simon Willison on delivering AI generated code &lpar;#note&rpar;](https://www.stefanjudis.com/notes/simon-willison-on-delivering-ai-generated-code/)
-- [Web Weekly #178 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-178/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
