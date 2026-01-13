@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #180 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-180/)
 - [ARIA roles can remove their children’s semantics &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/aria-roles-can-remove-their-childrens-semantics/)
 - [The Trust Equation &lpar;#note&rpar;](https://www.stefanjudis.com/notes/the-trust-equation/)
 - [Firefox DevTools hides unreferenced CSS variables &lpar;#note&rpar;](https://www.stefanjudis.com/notes/firefox-devtools-unreferenced-css-variables/)
 - [If you don&#39;t care, I don&#39;t care... &lpar;#note&rpar;](https://www.stefanjudis.com/notes/if-you-dont-care-i-dont-care/)
-- [Web Weekly #179 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-179/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
