@@ -8,9 +8,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Web Weekly #180 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-180/)
 - [ARIA roles can remove their children’s semantics &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/aria-roles-can-remove-their-childrens-semantics/)
+- [Clean up your Mac with open source &lpar;#note&rpar;](https://www.stefanjudis.com/notes/clean-up-your-mac-with-open-source/)
 - [The Trust Equation &lpar;#note&rpar;](https://www.stefanjudis.com/notes/the-trust-equation/)
 - [Firefox DevTools hides unreferenced CSS variables &lpar;#note&rpar;](https://www.stefanjudis.com/notes/firefox-devtools-unreferenced-css-variables/)
-- [If you don&#39;t care, I don&#39;t care... &lpar;#note&rpar;](https://www.stefanjudis.com/notes/if-you-dont-care-i-dont-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
