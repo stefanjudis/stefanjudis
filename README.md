@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #183 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-183/)
 - [Web Weekly #182 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-182/)
 - [How to style the found search / &quot;find in page&quot; substrings &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-style-find-in-page-substrings/)
 - [Web Weekly #181 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-181/)
 - [Web Weekly #180 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-180/)
-- [ARIA roles can remove their children’s semantics &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/aria-roles-can-remove-their-childrens-semantics/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
