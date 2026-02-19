@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Notes on relying on the ARIA Authoring Practices Guide  &lpar;#note&rpar;](https://www.stefanjudis.com/notes/notes-on-relying-on-the-aria-authoring-practices-guide/)
 - [Web Weekly #183 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-183/)
 - [Web Weekly #182 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-182/)
 - [How to style the found search / &quot;find in page&quot; substrings &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/how-to-style-find-in-page-substrings/)
 - [Web Weekly #181 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-181/)
-- [Web Weekly #180 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-180/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
