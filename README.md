@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #186 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-186/)
 - [Web Weekly #185 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-185/)
 - [New lines are removed from WHATWG URLs &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/new-lines-are-removed-from-whatwg-urls/)
 - [Web Weekly #184 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-184/)
 - [Nobody owes you anything &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/nobody-owes-you-anything/)
-- [How to scale elements and their layout with CSS &quot;zoom&quot; &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/css-zoom-to-scale-elements/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
