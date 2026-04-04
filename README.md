@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [The scope of type guards and assertion functions &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-scope-of-type-guards-and-assertion-functions/)
 - [Web Weekly #187 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-187/)
 - [Web Weekly #186 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-186/)
 - [Web Weekly #185 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-185/)
 - [New lines are removed from WHATWG URLs &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/new-lines-are-removed-from-whatwg-urls/)
-- [Web Weekly #184 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-184/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
