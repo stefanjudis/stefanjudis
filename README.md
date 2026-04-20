@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #190 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-190/)
 - [Web Weekly #189 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-189/)
 - [Web Weekly #188 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-188/)
 - [Intl can localize units, too! &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/intl-can-localize-units-too/)
 - [The scope of type guards and assertion functions &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-scope-of-type-guards-and-assertion-functions/)
-- [Web Weekly #187 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-187/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
