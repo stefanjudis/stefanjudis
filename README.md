@@ -13,6 +13,12 @@
 - [The scope of type guards and assertion functions &lpar;#tilPost&rpar;](https://www.stefanjudis.com/today-i-learned/the-scope-of-type-guards-and-assertion-functions/)
 <!-- BLOG-POST-LIST:END -->
 
+### Quotes I like
+
+> If those [AI] tools aren't under the control of experts who care deeply about the end result, what you end up with is slop. [...] There has to be someone who cares enough to push back, with the experience and organisational power to argue for quality over speed when it matters.
+
+— Rachel Andrew, [The importance of people who care](https://rachelandrew.co.uk/archives/2026/04/21/the-importance-of-people-who-care/)
+
 ### Stay up to date
 
 - Fediverse: `@stefan@front-end.social`
