@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #193 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-193/)
 - [Web Weekly #192 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-192/)
 - [Web Weekly #191 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-191/)
 - [Web Weekly #190 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-190/)
 - [Web Weekly #189 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-189/)
-- [Web Weekly #188 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-188/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
