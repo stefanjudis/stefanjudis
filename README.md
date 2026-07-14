@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Michelle Barker on Stage Fright &lpar;#note&rpar;](https://www.stefanjudis.com/notes/michelle-barker-on-stage-fright/)
 - [Web Weekly #196 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-196/)
 - [Escape from Average &lpar;#note&rpar;](https://www.stefanjudis.com/notes/escape-from-average/)
 - [Web Weekly #195 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-195/)
 - [Web Weekly #194 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-194/)
-- [Web Weekly #193 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-193/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
