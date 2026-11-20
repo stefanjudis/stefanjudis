@@ -6,11 +6,11 @@
 ### Latest articles on [my blog](https://www.stefanjudis.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Weekly #202 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-202/)
+- [Knowember 2026 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/knowember-2026/)
 - [Blake Watson on the state of the industry &lpar;#note&rpar;](https://www.stefanjudis.com/notes/blake-watson-on-the-state-of-the-industry/)
 - [Web Weekly #201 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-201/)
 - [Web Weekly #200 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-200/)
-- [Sally Hall on being proud of doing the work &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/sally-hall-on-being-proud-of-doing-the-work/)
-- [Web Weekly #199 &lpar;#blogPost&rpar;](https://www.stefanjudis.com/blog/web-weekly-199/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stay up to date
